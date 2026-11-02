@@ -1,0 +1,29 @@
+%123-1.0
+
+X:1
+T:Lyrics
+K:1=C
+M:4/4
+I:writefields N
+N:see https://www.youtube.com/watch?v=RWNeCjid0zc
+N:This is verse two of my song
+N:Syl-la-ble, word
+N:This is verse three of my song
+N:Word, word, syl-la-ble!
+6 6 6 6 | 6 6 6 6 | $
+w:words line up on notes
+6 6 6 6 | 6 6 6 6 | $
+w:syl-la-ble, syl-la-ble
+6- 6- | 6- 6- | $
+w:syllable, syl\-la\-ble
+6--- | 6 6 6 6 | $
+w:word~ word syl-la-ble
+6- 6- | 6 6 6 6 | $
+w:word_syl-la-ble_
+6 6 6 6 | 6 6 6 6 | $
+w:word///syl-la-ble
+6 6 6 6 | 6 6 6 6 | $
+w:word syl-la-ble
+6 6 6 6 | 6 6 6 6 | $
+w:syl-la-ble syl-la-ble
+w:word syl-la-ble

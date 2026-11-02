@@ -1,0 +1,54 @@
+%abc-2.1
+X:1
+T:Bad Apple
+T:Teppei's Rendition
+T:Original Composition by ZUN
+T:Transcribed by Jacky Yang
+M:4/4
+L:1/8
+I:linebreak explicit
+K:F
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D (D/^B,/)^C/ DD/F/ GF/G/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ |
+DD/D (D/^B,/)^C/ GF/G/ FD/F/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D (D/^B,/)^C/ DD/F/ GF/G/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D D/(^B,/^C/) (6:4:6GFGFDF | (DE) (FG) A2 !upbow!d!upbow!c |
+A2 D2 A(G F)E |
+(DE) FG A2 !upbow!G!upbow!F | (ED) (EF) E(D ^C)E | (DE) FG A2 !upbow!d!upbow!c | A2 D2 A(G F)E |
+(DE) FG A2 !upbow!G!upbow!F | E2 F2 G2 A2 |
+DE FG A2 !upbow!d!upbow!c | A2 D2 !>!A(G F)E |
+(DE) (FG) A2 (GF) | (ED) (EF) E(D ^C)E | DE FG A2 !upbow!d!upbow!c |
+A2 D2 !>!A(G F)E |
+(DE) FG A2 (GF) | E2 F2 G2 A2 |: (cd) (AG) A2 (GA) | (cd) (AG) A2 !upbow!G!upbow!A | (GF) (EC) D2 !upbow!C!upbow!D |
+!>!E(F G)A D2 !upbow!A!upbow!c :| (cd) !downbow!AG A2 !upbow!G!upbow!A | (cd) (AG) A2 !upbow!G!upbow!A | (GF) (EC) D2 !upbow!C!upbow!D | !>!E(F G)A D2 !upbow!A!upbow!c |
+(cd) !downbow!AG A2 !upbow!G!upbow!A | (cd) (AG) A2 !upbow!d!upbow!e | (fe) dc A2 (GA) | !>!G(F E)C D2 !upbow!a!upbow!c' |:
+"^Glissando"(c'd') ag a2 (ga) |
+"^Glissando"(c'd') ag a2 (ga) | (gf) !upbow!e!upbow!c d2 !upbow!c!upbow!d |
+!>!e!upbow!f !upbow!g!upbow!a d2 !upbow!a!upbow!c' :| "^Glissando"(c'd') ag a2 (ga) | "^Glissando"(c'd') ag a2 (ga) |
+(gf) !upbow!e!upbow!c d2 !upbow!c!upbow!d | !>!e!upbow!f !upbow!g!upbow!a d2 !upbow!a!upbow!c' | "^Glissando"(c'd') ag a2 (ga) |
+"^Glissando"(c'd') ag a2 "^Glissando"(d'e') | !>!(f'e') d'c' a2 !>!(ga) |
+!staccato!g!staccato!f !staccato!e!staccato!c !>!d2 z2 |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D (D/^B,/)^C/ DD/F/ GF/G/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ |
+DD/D (D/^B,/)^C/ GF/G/ FD/F/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D (D/^B,/)^C/ DD/F/ GF/G/ |
+DD/D (D/^B,/)^C/ DD/D (D/B,/)C/ | DD/D (D/^B,/)^C/ (6:4:6GAcdfa | g6 a/g/f |
+g/f/e f/e/d e/d/c d2 | !>!A2 cA G"^Glissando"^G =G2 | ^E2 ^^FA cd f!upbow!a | c'2 a d'2 d'2 f' |
+f'2 e'e' e'f' e'd' | "^Glissando"c'd' !>!a2 c'2 ga | ga c'2 (ga) gf |
+!turn!D2 !turn!e2 !turn!a2 !turn!c'2 |
+w:Placeholder for awesome violin
+!turn!a2 !turn!e2 !turn!E2 !turn!C2 |
+w:solo area
+A/A/c/c/ B/B/A/A/ B/B/c/c/ d/d/e | !staccato!g2 f3 e2 (g | g2) !trill!fe g!trill!f eg |
+fe g/f/e/g/ f/e/g/f/ e/g/f/e/ |
+a2 {a} c'2 d'2 e'2 | (f'e') e'2 d'2 c'2 | !-(!!>!!crescendo(!c'!-)!d' ag a2 !upbow!g!upbow!a |
+!crescendo)!(c'd') ag a2 (ga) |
+!downbow!g!downbow!f (ec) d2 (cd) | (ef) (ga) d2 !upbow!a!upbow!c' |: (c'd') ag a2 (ga) | (c'd') (ag) a2 !upbow!g!upbow!a |
+!downbow!g!downbow!f (ec) d2 (cd) | !>!e(f g)a d2 !upbow!a!upbow!c' :| (c'd') (ag) a2 (ga) | (c'd') (ag) a2 (d'e') |
+(f'e') (d'c') a2 (ga) |
+!>!g(f e)c d2 !upbow!^a!upbow!^c' |: (^c'^d') ^a^g a2 !upbow!(ga) | [K:B] (c'd') ag a2 !upbow!(ga) |
+(gf) ^ec d2 !upbow!(cd) |
+(^ef) ga d2 !upbow!a!upbow!c' :| c'd' ag a2 ga | c'd' ag a2 ga | gf ^ec d2 cd |
+^ef ga d2 ac' | c'd' ag a2 ga | c'd' ag a2 d'^e' | f'^e' d'c' a2 ga |
+gf ^ec d4 |]
+

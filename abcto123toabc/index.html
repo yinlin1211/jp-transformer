@@ -1,0 +1,77 @@
+<!doctype html><html lang="zh"><meta charset="utf-8">
+<title>Alex 30 ABC → 123 → ABC 渲染对比</title>
+<style>
+body{font-family:-apple-system,"Noto Sans CJK SC",sans-serif;margin:24px;background:#fafafa;color:#222}
+h1{font-size:22px} h2{font-size:16px;margin:0 0 4px} code{font-size:12px;color:#666}
+.desc{margin:0 0 10px;color:#555;font-size:13px}
+.case{background:#fff;border:1px solid #e3e3e3;border-radius:10px;padding:14px;margin:18px 0}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+figure{margin:0;border:1px solid #eee;border-radius:8px;overflow:hidden;background:#fff}
+figcaption{font-size:12px;padding:6px 8px;background:#f3f3f3;color:#444}
+img{display:block;width:100%;height:auto}
+.stats{font-size:13px;margin:10px 0 0} .note{color:#8a4b00}
+</style>
+<h1>Alex 30 ABC → 123 → ABC：简谱与五线谱渲染对比（6 例）</h1>
+<p class="desc">简谱由 Dolce 直接渲染 123；五线谱分别由 Dolce（123 投影）和 abcjs（原始 ABC / 往返 ABC）渲染。图片为页面元素截图，红色框是自动化点击留下的选中态。</p>
+<section class="case">
+<h2>Accents <code>accents.abc</code></h2>
+<p class="desc">语法夹具：滚音/跳音/上下弓</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/accents.png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/accents.png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/accents.png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/accents.png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>8</b> / 往返 <b>8</b>　<span class="note">abcjs 丢装饰；Dolce 五线谱保留跳音点</span></p>
+</section><section class="case">
+<h2>Ties and slurs <code>ties-and-slurs.abc</code></h2>
+<p class="desc">跨小节延音/连音、嵌套弧</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/ties-and-slurs.png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/ties-and-slurs.png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/ties-and-slurs.png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/ties-and-slurs.png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>17</b> / 往返 <b>17</b>　<span class="note">直出与往返五线谱外观基本一致；延音线以弧线呈现</span></p>
+</section><section class="case">
+<h2>Amazing Grace <code>amazing_grace.abc</code></h2>
+<p class="desc">歌词、三连音、多段词</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/amazing_grace.png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/amazing_grace.png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/amazing_grace.png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/amazing_grace.png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>43</b> / 往返 <b>43</b>　<span class="note">简谱与五线谱均出歌词；首字前多出段号 1.</span></p>
+</section><section class="case">
+<h2>Ding Dong! Merrily On High <code>ding-dong-merrily-on-high.abc</code></h2>
+<p class="desc">4 声部、歌词、M:none</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/ding-dong-merrily-on-high.png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/ding-dong-merrily-on-high.png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/ding-dong-merrily-on-high.png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/ding-dong-merrily-on-high.png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>242</b> / 往返 <b>242</b>　<span class="note">Dolce 五线谱未切换（仍为简谱）；abcjs 出 4 声部但歌词重叠</span></p>
+</section><section class="case">
+<h2>Bad Apple <code>bad_apple.abc</code></h2>
+<p class="desc">密集谱、转调、和弦段</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/bad_apple.png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/bad_apple.png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/bad_apple.png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/bad_apple.png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>737</b> / 往返 <b>737</b>　<span class="note">简谱显示“转1=B”；五线谱音符/连音/三连音正常</span></p>
+</section><section class="case">
+<h2>Jericho (chord symbols) <code>jericho-(chord-symbols).abc</code></h2>
+<p class="desc">和弦符号 Dm/A7、Fine</p>
+<div class="grid">
+  <figure><figcaption>简谱（Dolce，123 原生）</figcaption><img src="jianpu/jericho-(chord-symbols).png"></figure>
+  <figure><figcaption>五线谱（Dolce，由 123 投影）</figcaption><img src="staff_dolce/jericho-(chord-symbols).png"></figure>
+  <figure><figcaption>五线谱（abcjs，原始 ABC）</figcaption><img src="direct_abcjs/jericho-(chord-symbols).png"></figure>
+  <figure><figcaption>五线谱（abcjs，ABC→123→ABC）</figcaption><img src="staff_abcjs/jericho-(chord-symbols).png"></figure>
+</div>
+<p class="stats">abcjs 音符数：原始 <b>73</b> / 往返 <b>73</b>　<span class="note">Dolce 五线谱显示 Dm/A7 与 Fine；简谱视图不显示和弦符号</span></p>
+</section>
+</html>

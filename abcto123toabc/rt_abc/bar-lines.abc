@@ -1,0 +1,10 @@
+%abc-2.1
+X:1
+T:Bar lines
+M:4/4
+L:1/8
+K:C
+[| A4 A4 | A4 A4 || A4 A4 | A4 A4 |]
+|: A4 A4 | A4 A4 :| A4 A4 | A4 A4 :|
+A4 A4 | A4 A4 | [1 A4 A4 :| [2 A4 A4 | A4 A4 |]
+

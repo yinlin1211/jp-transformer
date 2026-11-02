@@ -1,0 +1,30 @@
+%abc-2.1
+X:1
+T:Lyrics
+M:4/4
+L:1/8
+I:writefields N
+N:see https://www.youtube.com/watch?v=RWNeCjid0zc
+N:This is verse two of my song
+N:Syl-la-ble, word
+N:This is verse three of my song
+N:Word, word, syl-la-ble!
+K:C
+A2 A2 A2 A2 | A2 A2 A2 A2 |
+w:words line up on notes
+A2 A2 A2 A2 | A2 A2 A2 A2 |
+w:syl-la-ble, syl-la-ble
+A4 A4 | A4 A4 |
+w:syllable, syl-la-ble
+A8 | A2 A2 A2 A2 |
+w:word~ word syl-la-ble
+A4 A4 | A2 A2 A2 A2 |
+w:word _ syl-la-ble _
+A2 A2 A2 A2 | A2 A2 A2 A2 |
+w:word * * *syl-la-ble
+A2 A2 A2 A2 | A2 A2 A2 A2 |
+w:word syl-la-ble
+A2 A2 A2 A2 | A2 A2 A2 A2 |
+w:syl-la-ble syl-la-ble
+w:word syl-la-ble
+

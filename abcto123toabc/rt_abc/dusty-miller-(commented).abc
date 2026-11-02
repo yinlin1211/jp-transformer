@@ -1,0 +1,15 @@
+%abc-2.1
+X:1                        % tune no 1
+T:Dusty Miller (commented) % title
+T:Binny's Jig              % an alternative title
+C:Trad.                    % traditional
+L:1/8
+N:Hey, the dusty miller, and his dusty coat;
+N:He will win a shilling, or he spend a groat.
+N:Dusty was the coat, dusty was the colour;
+N:Dusty was the kiss, that I got frae the miller.
+K:G
+B3/2c/ dB AG | FA Ac BA | B3/2c/ dB AG | DG GB AG :|
+Bd dg fg | aA Ac BA | Bd dg fa | gG GB AG :|
+BG G/G/G BG | FA Ac BA | BG G/G/G BG | DG GB AG :|
+

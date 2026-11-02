@@ -1,0 +1,19 @@
+%123-1.0
+
+X:1
+T:Jericho (tenor sax)
+T:Joshua fought the battle of Jericho
+C:Anon.
+K:Dm
+M:4/4
+I:midi transpose -14
+I:midi program 67
+I:midi chordprog 1 octave=2
+I:midi bassprog 1 octave=2
+I:writefields N
+N:adapted for transposing instruments such as a tenor sax
+N:see https://www.youtube.com/watch?v=M5r0I3xTP6I&t=1230s
+Dm 6,_ #5,_ 6,_ 7,_ 1_ 1_ 2 | Dm 3_ 3 (3_ 3-) | A7 2_ 2 (2_ 2-) | Dm 3_ 3 (3_ 3-) | $
+Dm 6,_ #5,_ 6,_ 7,_ 1_ 1_ 2 | Dm 3_ 3 (3_ 3) 1_ 2_ | A7 3 2 1 7, | Dm 6,-- || "^Fine"6_ 6_ | $
+Dm 6_ 3_ 3_ 3_ 3. 3_ | Dm 3_ (3. A7 3) 3_ 3_ | Dm 3_ 3_ 3_ 3_ 3 3 | A7 3-- #5 | $
+Dm 6 3 A7 3_ 3. | Dm 3 (3 A7 3) 3_ 3_ | Dm 3_ 3_ 2 A7 7, 6, | Dm 6,--- |] $

@@ -1,0 +1,137 @@
+{
+  "dataset": "abc2kern/data/abc (30 files)",
+  "metric": "onset, duration, MIDI pitch",
+  "exclude_chord_stacks": true,
+  "notes": "Chord-stack events are excluded because 123/jianpu only keeps the top note.",
+  "files_total": 30,
+  "files_with_non_chord_notes": 29,
+  "files_exact": 29,
+  "files_without_non_chord_notes": [
+    "chords"
+  ],
+  "total_non_chord_notes": 6795,
+  "exact": 6795,
+  "accuracy": 1,
+  "per_file": {
+    "accents": {
+      "non_chord_notes": 8,
+      "exact": 8
+    },
+    "accidentals": {
+      "non_chord_notes": 5,
+      "exact": 5
+    },
+    "amazing-grace-2-voice-counterpoint": {
+      "non_chord_notes": 89,
+      "exact": 89
+    },
+    "amazing_grace": {
+      "non_chord_notes": 41,
+      "exact": 41
+    },
+    "bad_apple": {
+      "non_chord_notes": 831,
+      "exact": 831
+    },
+    "bar-lines": {
+      "non_chord_notes": 90,
+      "exact": 90
+    },
+    "beams": {
+      "non_chord_notes": 23,
+      "exact": 23
+    },
+    "broken-rhythm-markers": {
+      "non_chord_notes": 16,
+      "exact": 16
+    },
+    "chord-symbols": {
+      "non_chord_notes": 4,
+      "exact": 4
+    },
+    "chords": {
+      "non_chord_notes": 0,
+      "exact": 0
+    },
+    "ding-dong-merrily-on-high": {
+      "non_chord_notes": 1330,
+      "exact": 1330
+    },
+    "dusty-miller-(commented)": {
+      "non_chord_notes": 486,
+      "exact": 486
+    },
+    "grace-notes": {
+      "non_chord_notes": 8,
+      "exact": 8
+    },
+    "jericho-(chord-symbols)": {
+      "non_chord_notes": 67,
+      "exact": 67
+    },
+    "jericho-(hidden-voice)": {
+      "non_chord_notes": 67,
+      "exact": 67
+    },
+    "jericho-(tenor-sax)": {
+      "non_chord_notes": 67,
+      "exact": 67
+    },
+    "kesh": {
+      "non_chord_notes": 853,
+      "exact": 853
+    },
+    "keys-and-modes": {
+      "non_chord_notes": 120,
+      "exact": 120
+    },
+    "kitchen-girl-(reel)": {
+      "non_chord_notes": 883,
+      "exact": 883
+    },
+    "lyrics": {
+      "non_chord_notes": 110,
+      "exact": 110
+    },
+    "morning_star": {
+      "non_chord_notes": 115,
+      "exact": 115
+    },
+    "note-lengths": {
+      "non_chord_notes": 12,
+      "exact": 12
+    },
+    "notes-pitches": {
+      "non_chord_notes": 28,
+      "exact": 28
+    },
+    "old-sir-simon-the-king-(commented)": {
+      "non_chord_notes": 621,
+      "exact": 621
+    },
+    "paddy-orafferty-(jig)": {
+      "non_chord_notes": 618,
+      "exact": 618
+    },
+    "satb-absolute-pitching": {
+      "non_chord_notes": 64,
+      "exact": 64
+    },
+    "speed-the-plough": {
+      "non_chord_notes": 186,
+      "exact": 186
+    },
+    "ties-and-slurs": {
+      "non_chord_notes": 8,
+      "exact": 8
+    },
+    "tuplets": {
+      "non_chord_notes": 27,
+      "exact": 27
+    },
+    "unit-note-length": {
+      "non_chord_notes": 18,
+      "exact": 18
+    }
+  }
+}

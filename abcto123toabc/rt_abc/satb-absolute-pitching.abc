@@ -1,0 +1,16 @@
+%abc-2.1
+X:1
+T:TEST: Vocal SATB score.
+L:1/8
+N:All parts written "on the staff" with commas.
+N:All parts should show scale from C below to above staff.
+K:C
+| CD EF GA Bc | cd ef ga bc' |
+w:C D E F G A B c c d e f g a b c'
+| CD EF GA Bc | cd ef ga bc' |
+w:C D E F G A B c c d e f g a b c'
+| C,D, E,F, G,A, B,C | CD EF GA Bc |
+w:C, D, E, F, G, A, B, C C D E F G A B c
+| C,,D,, E,,F,, G,,A,, B,,C, | C,D, E,F, G,A, B,C |
+w:C,, D,, E,, F,, G,, A,, B,, C, C, D, E, F, G, A, B, C
+

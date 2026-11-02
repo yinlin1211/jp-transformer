@@ -1,0 +1,24 @@
+%abc-2.1
+X:1
+T:Jericho (hidden voice)
+T:Joshua fought the battle of Jericho
+C:Anon.
+M:4/4
+L:1/8
+I:midi transpose -14
+I:staves (melody chords)
+I:midi program 67
+I:midi chordprog 1 octave=2
+I:midi bassprog 1 octave=2
+N:using a hidden voice to separate out the chord symbols
+N:see https://youtu.be/HxLKo4HL19g
+K:Dm
+D^C DE FF G2 | A A2 (A A4) | G G2 (G G4) | A A2 (A A4) |
+D^C DE FF G2 | A A2 (A A2) FG | A2 G2 F2 E2 | D6 || "^Fine"dd |
+dA AA A3 A | A (A3 A2) AA | AA AA A2 A2 | A6 ^c2 |
+d2 A2 A A3 | A2 (A2 A2) AA | AA G2 E2 D2 | D8 |]
+"Dm"x2 z2 x2 z2 | "Dm"x2 z2 x2 z2 | "A7"x2 z2 x2 z2 | "Dm"x2 z2 x2 z2 |
+"Dm"x2 z2 x2 z2 | "Dm"x2 z2 x2 z2 | "A7"x2 z2 x2 z2 | "Dm"x2 z2 x2 z2 |
+"Dm"x2 z2 x2 z2 | "Dm"x2 z2 "A7"x2 z2 | "Dm"x2 z2 x2 z2 | "A7"x2 z2 x2 z2 |
+"Dm"x2 z2 "A7"x2 z2 | "Dm"x2 z2 "A7"x2 z2 | "Dm"x2 z2 "A7"x2 z2 | "Dm"x2 z2 x2 z2 |]
+
