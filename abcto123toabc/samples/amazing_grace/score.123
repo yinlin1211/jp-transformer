@@ -1,0 +1,27 @@
+%123-1.0
+
+X:1
+T:Amazing Grace
+C:John Newton
+K:1=G
+M:3/4
+N:2. 'Twas grace that taught my heart to fear
+N:And grace that fear relieved;
+N:How precious did that grace appear
+N:The hour I first believed.
+N:3. Through many dangers, toils, and snares
+N:I have already come;
+N:'Tis grace hath bro't me safe thus far,
+N:And grace will lead me home.
+N:4. When we've been here ten thousand years
+N:Bright shining as the sun;
+N:We've no less days to sing God's praise
+N:Than when we first begun.
+5, | 1- (3:(3_ 2_ 1_)) | 3- 3_ 2_ | 1- 6, | 5,- $
+w:1.~ A-maz-ing_/grace, how_sweet the
+5, | 1- (3:(3_ 2_ 1_)) | 3- 2_ 3_ | (5-- | 5-) $
+w:That saved a_/wretch like_me._
+3_ 5_ | 5- (3:(3_ 2_ 1_)) | 3- 3_ 2_ | 1- 6, | 5,- $
+w:I_once was_/lost, but_now am found,
+5, | 1- (3:(3_ 2_ 1_)) | 3- 3_ 2_ | (1-- | 1-) |] $
+w:Was blind, but_/now I_see.

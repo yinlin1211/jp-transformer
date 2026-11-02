@@ -25,6 +25,7 @@
 | `direct_abcjs/` | abcjs 渲染原始 ABC 的五线谱 SVG/PNG |
 | `staff_abcjs/` | abcjs 渲染往返 ABC 的五线谱 SVG/PNG |
 | `index.html` | 6 个代表例的四联对比页 |
+| `samples/amazing_grace/` | 单曲渲染样例（Amazing Grace，完整歌曲，无和弦叠音） |
 | `scripts/` | 批量生成与统计脚本 |
 
 ## 准确率（不计和弦叠音）
@@ -46,6 +47,10 @@
 - **和弦叠音**不参与统计：123 没有和弦堆，只保留最高音，这是简谱显示口径下的预期行为。
 - 歌词文本仍有差异：`lyrics.abc` 的 `syl-la-ble` 会被拆成三个歌词事件；`amazing_grace` 的段号 `1.` 会被当成第一个歌词。
 - abcjs 会忽略 `!staccato!` 等部分装饰；Dolce 五线谱会保留跳音点。
+
+## 单曲渲染样例（无和弦）
+
+[`samples/amazing_grace/`](samples/amazing_grace/)：完整歌曲 **Amazing Grace**，无和弦叠音；包含简谱（Dolce 渲染 123）、原始 ABC 五线谱和 ABC→123→ABC 五线谱。打开 `samples/amazing_grace/index.html` 可直接对比。
 
 ## 渲染结论（6 个代表例）
 
