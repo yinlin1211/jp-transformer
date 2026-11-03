@@ -1,0 +1,20 @@
+{
+ "song": "棠梨煎雪",
+ "keynote": "1=C",
+ "rhythm": "4/4",
+ "bpm": 72,
+ "written_measures": 44,
+ "performed_measures": 69,
+ "repeat": {
+  "forward": 10,
+  "backward": 34
+ },
+ "notes": 221,
+ "xml_notes": 218,
+ "lyric_chars": 205,
+ "lyric_blank_slots": 16,
+ "losses": [
+  "tag-dropped:hot"
+ ],
+ "source": "raw_jianpu/棠梨煎雪/source.json"
+}

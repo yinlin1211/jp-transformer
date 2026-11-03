@@ -1,0 +1,267 @@
+{
+ "春三月-A": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 52,
+  "losses": [],
+  "verses": 1
+ },
+ "遇萤": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 56,
+  "losses": [],
+  "verses": 1
+ },
+ "不老梦": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 59,
+  "losses": [],
+  "verses": 1
+ },
+ "赤伶": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 59,
+  "losses": [
+   "prefix-accidental-dropped:#4",
+   "prefix-accidental-dropped:#4",
+   "prefix-accidental-dropped:#4",
+   "prefix-accidental-dropped:#4",
+   "prefix-accidental-dropped:#4"
+  ],
+  "verses": 1
+ },
+ "壁上观": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 27,
+  "losses": [],
+  "verses": 1
+ },
+ "明月天涯": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 50,
+  "losses": [],
+  "verses": 1
+ },
+ "不谓侠-A": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 43,
+  "losses": [],
+  "verses": 1
+ },
+ "song-01": {
+  "skipped": "has-play"
+ },
+ "song-02": {
+  "skipped": "has-play"
+ },
+ "辞·九门回忆": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 48,
+  "losses": [],
+  "verses": 1
+ },
+ "我的一个道姑朋友": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 87,
+  "losses": [
+   "prefix-accidental-dropped:#5",
+   "prefix-accidental-dropped:b3",
+   "prefix-accidental-dropped:#5",
+   "prefix-accidental-dropped:b3",
+   "prefix-accidental-dropped:b3",
+   "prefix-accidental-dropped:b7",
+   "prefix-accidental-dropped:b7",
+   "prefix-accidental-dropped:b7"
+  ],
+  "verses": 1
+ },
+ "song-03": {
+  "skipped": "has-play"
+ },
+ "song-04": {
+  "skipped": "has-play"
+ },
+ "song-05": {
+  "skipped": "has-play"
+ },
+ "song-06": {
+  "skipped": "has-play"
+ },
+ "棠梨煎雪": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 44,
+  "losses": [],
+  "verses": 1
+ },
+ "song-07": {
+  "skipped": "has-play"
+ },
+ "不谓侠-B": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 65,
+  "losses": [],
+  "verses": 1
+ },
+ "年轮": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 31,
+  "losses": [],
+  "verses": 1
+ },
+ "song-08": {
+  "skipped": "has-play"
+ },
+ "song-09": {
+  "skipped": "has-play"
+ },
+ "牵丝戏": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 34,
+  "losses": [],
+  "verses": 1
+ },
+ "song-10": {
+  "skipped": "has-play"
+ },
+ "song-11": {
+  "skipped": "has-play"
+ },
+ "拜无忧": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 43,
+  "losses": [],
+  "verses": 1
+ },
+ "song-12": {
+  "skipped": "has-play"
+ },
+ "春三月-B": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 42,
+  "losses": [],
+  "verses": 1
+ },
+ "song-13": {
+  "skipped": "has-play"
+ },
+ "腐草为萤": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 36,
+  "losses": [],
+  "verses": 1
+ },
+ "song-14": {
+  "skipped": "has-play"
+ },
+ "song-15": {
+  "skipped": "has-play"
+ },
+ "九万字": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 31,
+  "losses": [],
+  "verses": 1
+ },
+ "song-16": {
+  "skipped": "has-play"
+ },
+ "song-17": {
+  "skipped": "has-play"
+ },
+ "song-18": {
+  "skipped": "has-play"
+ },
+ "song-19": {
+  "skipped": "has-play"
+ },
+ "song-20": {
+  "skipped": "has-play"
+ },
+ "song-21": {
+  "skipped": "has-play"
+ },
+ "song-22": {
+  "skipped": "has-play"
+ },
+ "song-23": {
+  "skipped": "has-play"
+ },
+ "song-24": {
+  "skipped": "has-play"
+ },
+ "song-25": {
+  "skipped": "has-play"
+ },
+ "song-26": {
+  "skipped": "has-play"
+ },
+ "song-27": {
+  "skipped": "has-play"
+ },
+ "song-28": {
+  "skipped": "has-play"
+ },
+ "song-29": {
+  "skipped": "has-play"
+ },
+ "song-30": {
+  "skipped": "has-play"
+ },
+ "song-31": {
+  "skipped": "has-play"
+ },
+ "song-32": {
+  "skipped": "has-play"
+ },
+ "song-33": {
+  "skipped": "has-play"
+ },
+ "东风第一枝": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 37,
+  "losses": [
+   "prefix-accidental-dropped:#1",
+   "raw-dropped:'n'",
+   "prefix-accidental-dropped:#1",
+   "prefix-accidental-dropped:#6",
+   "raw-dropped:'n'",
+   "prefix-accidental-dropped:#6",
+   "prefix-accidental-dropped:#2"
+  ],
+  "verses": 1
+ },
+ "song-34": {
+  "skipped": "has-play"
+ },
+ "song-35": {
+  "skipped": "has-play"
+ },
+ "虞兮叹": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 34,
+  "losses": [],
+  "verses": 1
+ },
+ "云烟成雨": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 50,
+  "losses": [],
+  "verses": 1
+ },
+ "song-36": {
+  "skipped": "has-play"
+ },
+ "咏春": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 62,
+  "losses": [
+   "prefix-accidental-dropped:#1"
+  ],
+  "verses": 1
+ },
+ "寄明月": {
+  "source": "raw_jianpu/source/source.json",
+  "measures": 82,
+  "losses": [],
+  "verses": 1
+ }
+}

@@ -1,0 +1,2039 @@
+{
+ "notes": [
+  {
+   "onset": 3.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "腾"
+  },
+  {
+   "onset": 4,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "驹"
+  },
+  {
+   "onset": 5.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "摘"
+  },
+  {
+   "onset": 6,
+   "duration": 0.75,
+   "midi": 70,
+   "lyric": "陌"
+  },
+  {
+   "onset": 6.75,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "上"
+  },
+  {
+   "onset": 7.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "的"
+  },
+  {
+   "onset": 8,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "星"
+  },
+  {
+   "onset": 9,
+   "duration": 2,
+   "midi": 63,
+   "lyric": "辰，"
+  },
+  {
+   "onset": 11.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "蟒"
+  },
+  {
+   "onset": 12,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "袍"
+  },
+  {
+   "onset": 13.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "被"
+  },
+  {
+   "onset": 14,
+   "duration": 0.75,
+   "midi": 70,
+   "lyric": "夜"
+  },
+  {
+   "onset": 14.75,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "露"
+  },
+  {
+   "onset": 15.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "溅"
+  },
+  {
+   "onset": 16,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "满"
+  },
+  {
+   "onset": 17,
+   "duration": 2,
+   "midi": 70,
+   "lyric": "身，"
+  },
+  {
+   "onset": 19.5,
+   "duration": 0.25,
+   "midi": 66,
+   "lyric": "有"
+  },
+  {
+   "onset": 19.75,
+   "duration": 0.25,
+   "midi": 68,
+   "lyric": "北"
+  },
+  {
+   "onset": 20,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "风"
+  },
+  {
+   "onset": 21.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "自"
+  },
+  {
+   "onset": 22,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "鬓"
+  },
+  {
+   "onset": 22.75,
+   "duration": 0.75,
+   "midi": 73,
+   "lyric": "边"
+  },
+  {
+   "onset": 23.5,
+   "duration": 0.5,
+   "midi": 65,
+   "lyric": "凛"
+  },
+  {
+   "onset": 24,
+   "duration": 1,
+   "midi": 65,
+   "lyric": "凛"
+  },
+  {
+   "onset": 25,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "长"
+  },
+  {
+   "onset": 25.5,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "奔，"
+  },
+  {
+   "onset": 27.5,
+   "duration": 0.25,
+   "midi": 70,
+   "lyric": "远"
+  },
+  {
+   "onset": 27.75,
+   "duration": 0.25,
+   "midi": 66,
+   "lyric": "胜"
+  },
+  {
+   "onset": 28,
+   "duration": 1.5,
+   "midi": 68,
+   "lyric": "过"
+  },
+  {
+   "onset": 29.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "故"
+  },
+  {
+   "onset": 30,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "都"
+  },
+  {
+   "onset": 30.75,
+   "duration": 0.75,
+   "midi": 66,
+   "lyric": "的"
+  },
+  {
+   "onset": 31.5,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "温"
+  },
+  {
+   "onset": 32.5,
+   "duration": 2.5,
+   "midi": 63,
+   "lyric": "存。"
+  },
+  {
+   "onset": 35,
+   "duration": 0.5,
+   "midi": 63,
+   "lyric": "越"
+  },
+  {
+   "onset": 35.5,
+   "duration": 0.5,
+   "midi": 65,
+   "lyric": "放"
+  },
+  {
+   "onset": 36,
+   "duration": 1,
+   "midi": 66,
+   "lyric": "旷"
+  },
+  {
+   "onset": 37,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "潦"
+  },
+  {
+   "onset": 37.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": null
+  },
+  {
+   "onset": 38,
+   "duration": 1,
+   "midi": 68,
+   "lyric": "倒，"
+  },
+  {
+   "onset": 39,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "越"
+  },
+  {
+   "onset": 39.5,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "深"
+  },
+  {
+   "onset": 40,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "种"
+  },
+  {
+   "onset": 40.5,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "情"
+  },
+  {
+   "onset": 41.5,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "根，"
+  },
+  {
+   "onset": 43,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "我"
+  },
+  {
+   "onset": 43.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "情"
+  },
+  {
+   "onset": 44,
+   "duration": 1.5,
+   "midi": 75,
+   "lyric": "愿，"
+  },
+  {
+   "onset": 45.5,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "扮"
+  },
+  {
+   "onset": 46,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "个"
+  },
+  {
+   "onset": 46.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "浪"
+  },
+  {
+   "onset": 47,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "子"
+  },
+  {
+   "onset": 47.5,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "王"
+  },
+  {
+   "onset": 48.5,
+   "duration": 2.5,
+   "midi": 70,
+   "lyric": "孙。"
+  },
+  {
+   "onset": 51,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "如"
+  },
+  {
+   "onset": 51.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "世"
+  },
+  {
+   "onset": 52,
+   "duration": 1,
+   "midi": 70,
+   "lyric": "间"
+  },
+  {
+   "onset": 53,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "璧"
+  },
+  {
+   "onset": 53.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 54,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "人，"
+  },
+  {
+   "onset": 55,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "对"
+  },
+  {
+   "onset": 55.5,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "坐"
+  },
+  {
+   "onset": 56,
+   "duration": 0.5,
+   "midi": 77,
+   "lyric": "烛"
+  },
+  {
+   "onset": 56.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "影"
+  },
+  {
+   "onset": 57,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "黄"
+  },
+  {
+   "onset": 57.5,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "昏，"
+  },
+  {
+   "onset": 59,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "何"
+  },
+  {
+   "onset": 59.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "须"
+  },
+  {
+   "onset": 60,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "谁"
+  },
+  {
+   "onset": 61.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "来"
+  },
+  {
+   "onset": 62,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "赐"
+  },
+  {
+   "onset": 62.5,
+   "duration": 0.5,
+   "midi": 63,
+   "lyric": null
+  },
+  {
+   "onset": 63,
+   "duration": 1,
+   "midi": 63,
+   "lyric": "平"
+  },
+  {
+   "onset": 64,
+   "duration": 3,
+   "midi": 70,
+   "lyric": "身。"
+  },
+  {
+   "onset": 67,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "不"
+  },
+  {
+   "onset": 67.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "拜"
+  },
+  {
+   "onset": 68,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "天"
+  },
+  {
+   "onset": 69,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "地"
+  },
+  {
+   "onset": 70,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "浩"
+  },
+  {
+   "onset": 70.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 70.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 71,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "荡，"
+  },
+  {
+   "onset": 72,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "河"
+  },
+  {
+   "onset": 72.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "山"
+  },
+  {
+   "onset": 73,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "永"
+  },
+  {
+   "onset": 73.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 74,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "蔚，"
+  },
+  {
+   "onset": 75,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "不"
+  },
+  {
+   "onset": 75.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "拜"
+  },
+  {
+   "onset": 76,
+   "duration": 1,
+   "midi": 80,
+   "lyric": "高"
+  },
+  {
+   "onset": 77,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "堂"
+  },
+  {
+   "onset": 78,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": "济"
+  },
+  {
+   "onset": 78.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 78.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 79,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "清"
+  },
+  {
+   "onset": 79.5,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 80,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 80.5,
+   "duration": 2.5,
+   "midi": 82,
+   "lyric": "辉，"
+  },
+  {
+   "onset": 83,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "拜"
+  },
+  {
+   "onset": 83.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "只"
+  },
+  {
+   "onset": 84,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "拜"
+  },
+  {
+   "onset": 85,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "我"
+  },
+  {
+   "onset": 86,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "千"
+  },
+  {
+   "onset": 86.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 86.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 87,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "秋"
+  },
+  {
+   "onset": 88,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "荒"
+  },
+  {
+   "onset": 88.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "唐"
+  },
+  {
+   "onset": 89,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "这"
+  },
+  {
+   "onset": 89.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "一"
+  },
+  {
+   "onset": 90,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "回，"
+  },
+  {
+   "onset": 91,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "今"
+  },
+  {
+   "onset": 91.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "宵"
+  },
+  {
+   "onset": 92,
+   "duration": 1,
+   "midi": 80,
+   "lyric": "我"
+  },
+  {
+   "onset": 93,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": "非"
+  },
+  {
+   "onset": 93.5,
+   "duration": 0.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 94,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": "殿"
+  },
+  {
+   "onset": 94.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": "上"
+  },
+  {
+   "onset": 94.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 95,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "那"
+  },
+  {
+   "onset": 95.5,
+   "duration": 1,
+   "midi": 78,
+   "lyric": "个"
+  },
+  {
+   "onset": 96.5,
+   "duration": 2.5,
+   "midi": 75,
+   "lyric": "谁。"
+  },
+  {
+   "onset": 99,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "拨"
+  },
+  {
+   "onset": 99.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "我"
+  },
+  {
+   "onset": 100,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "非"
+  },
+  {
+   "onset": 101,
+   "duration": 1,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 102,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "殿"
+  },
+  {
+   "onset": 102.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": "上"
+  },
+  {
+   "onset": 102.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 103,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "那"
+  },
+  {
+   "onset": 104,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "个"
+  },
+  {
+   "onset": 104.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 105,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "谁。"
+  },
+  {
+   "onset": 105.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 106,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "一"
+  },
+  {
+   "onset": 107,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "拜"
+  },
+  {
+   "onset": 107.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "天"
+  },
+  {
+   "onset": 108,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "地"
+  },
+  {
+   "onset": 109,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "浩"
+  },
+  {
+   "onset": 110,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 110.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 110.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": "荡，"
+  },
+  {
+   "onset": 111,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "河"
+  },
+  {
+   "onset": 111.5,
+   "duration": 1,
+   "midi": 85,
+   "lyric": "山"
+  },
+  {
+   "onset": 112.5,
+   "duration": 2.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 115,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "二"
+  },
+  {
+   "onset": 115.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "拜"
+  },
+  {
+   "onset": 116,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "高"
+  },
+  {
+   "onset": 117,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "堂"
+  },
+  {
+   "onset": 118,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "济"
+  },
+  {
+   "onset": 118.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 118.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 119,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "清"
+  },
+  {
+   "onset": 120,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 120.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 121,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "辉，"
+  },
+  {
+   "onset": 121.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 122,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "拜"
+  },
+  {
+   "onset": 123,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "我"
+  },
+  {
+   "onset": 123.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "鲜"
+  },
+  {
+   "onset": 124,
+   "duration": 1,
+   "midi": 80,
+   "lyric": "花"
+  },
+  {
+   "onset": 125,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": "着"
+  },
+  {
+   "onset": 125.5,
+   "duration": 0.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 126,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 126.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": "锦"
+  },
+  {
+   "onset": 126.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": "山"
+  },
+  {
+   "onset": 127,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "呼"
+  },
+  {
+   "onset": 127.5,
+   "duration": 1,
+   "midi": 78,
+   "lyric": "万"
+  },
+  {
+   "onset": 128.5,
+   "duration": 2.5,
+   "midi": 75,
+   "lyric": "岁，"
+  },
+  {
+   "onset": 131.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "觉"
+  },
+  {
+   "onset": 132,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "箭"
+  },
+  {
+   "onset": 133.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "寻"
+  },
+  {
+   "onset": 134,
+   "duration": 0.75,
+   "midi": 70,
+   "lyric": "古"
+  },
+  {
+   "onset": 134.75,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "道"
+  },
+  {
+   "onset": 135.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "的"
+  },
+  {
+   "onset": 136,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "辙"
+  },
+  {
+   "onset": 137,
+   "duration": 2,
+   "midi": 63,
+   "lyric": "痕，"
+  },
+  {
+   "onset": 139.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "华"
+  },
+  {
+   "onset": 140,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "盖"
+  },
+  {
+   "onset": 141.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "在"
+  },
+  {
+   "onset": 142,
+   "duration": 0.75,
+   "midi": 70,
+   "lyric": "暮"
+  },
+  {
+   "onset": 142.75,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "色"
+  },
+  {
+   "onset": 143.5,
+   "duration": 0.5,
+   "midi": 61,
+   "lyric": "中"
+  },
+  {
+   "onset": 144,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "鲸"
+  },
+  {
+   "onset": 145,
+   "duration": 2,
+   "midi": 70,
+   "lyric": "吞，"
+  },
+  {
+   "onset": 147.5,
+   "duration": 0.25,
+   "midi": 66,
+   "lyric": "当"
+  },
+  {
+   "onset": 147.75,
+   "duration": 0.25,
+   "midi": 68,
+   "lyric": "狼"
+  },
+  {
+   "onset": 148,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "烟"
+  },
+  {
+   "onset": 149.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "去"
+  },
+  {
+   "onset": 150,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "云"
+  },
+  {
+   "onset": 150.75,
+   "duration": 0.75,
+   "midi": 73,
+   "lyric": "端"
+  },
+  {
+   "onset": 151.5,
+   "duration": 0.5,
+   "midi": 65,
+   "lyric": "一"
+  },
+  {
+   "onset": 152,
+   "duration": 1,
+   "midi": 65,
+   "lyric": "骑"
+  },
+  {
+   "onset": 153,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "绝"
+  },
+  {
+   "onset": 153.5,
+   "duration": 1.5,
+   "midi": 63,
+   "lyric": "尘，"
+  },
+  {
+   "onset": 155.5,
+   "duration": 0.25,
+   "midi": 70,
+   "lyric": "普"
+  },
+  {
+   "onset": 155.75,
+   "duration": 0.25,
+   "midi": 66,
+   "lyric": "天"
+  },
+  {
+   "onset": 156,
+   "duration": 1.5,
+   "midi": 68,
+   "lyric": "下，"
+  },
+  {
+   "onset": 157.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "才"
+  },
+  {
+   "onset": 158,
+   "duration": 0.75,
+   "midi": 68,
+   "lyric": "唯"
+  },
+  {
+   "onset": 158.75,
+   "duration": 0.75,
+   "midi": 66,
+   "lyric": "我"
+  },
+  {
+   "onset": 159.5,
+   "duration": 1,
+   "midi": 61,
+   "lyric": "独"
+  },
+  {
+   "onset": 160.5,
+   "duration": 2.5,
+   "midi": 63,
+   "lyric": "尊。"
+  },
+  {
+   "onset": 163,
+   "duration": 0.5,
+   "midi": 63,
+   "lyric": "越"
+  },
+  {
+   "onset": 163.5,
+   "duration": 0.5,
+   "midi": 65,
+   "lyric": "招"
+  },
+  {
+   "onset": 164,
+   "duration": 1,
+   "midi": 66,
+   "lyric": "摇"
+  },
+  {
+   "onset": 165,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "坐"
+  },
+  {
+   "onset": 165.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": null
+  },
+  {
+   "onset": 166,
+   "duration": 1,
+   "midi": 68,
+   "lyric": "镇，"
+  },
+  {
+   "onset": 167,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "越"
+  },
+  {
+   "onset": 167.5,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "戏"
+  },
+  {
+   "onset": 168,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "弄"
+  },
+  {
+   "onset": 168.5,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "乾"
+  },
+  {
+   "onset": 169.5,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "坤，"
+  },
+  {
+   "onset": 171,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "我"
+  },
+  {
+   "onset": 171.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "偏"
+  },
+  {
+   "onset": 172,
+   "duration": 1.5,
+   "midi": 75,
+   "lyric": "要，"
+  },
+  {
+   "onset": 173.5,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "来"
+  },
+  {
+   "onset": 174,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "个"
+  },
+  {
+   "onset": 174.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "妙"
+  },
+  {
+   "onset": 175,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "算"
+  },
+  {
+   "onset": 175.5,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "如"
+  },
+  {
+   "onset": 176.5,
+   "duration": 2.5,
+   "midi": 70,
+   "lyric": "神。"
+  },
+  {
+   "onset": 179,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "藐"
+  },
+  {
+   "onset": 179.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "烽"
+  },
+  {
+   "onset": 180,
+   "duration": 1,
+   "midi": 70,
+   "lyric": "火"
+  },
+  {
+   "onset": 181,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "诸"
+  },
+  {
+   "onset": 181.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 182,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "侯，"
+  },
+  {
+   "onset": 183,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "只"
+  },
+  {
+   "onset": 183.5,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "道"
+  },
+  {
+   "onset": 184,
+   "duration": 0.5,
+   "midi": 77,
+   "lyric": "俯"
+  },
+  {
+   "onset": 184.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "首"
+  },
+  {
+   "onset": 185,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "称"
+  },
+  {
+   "onset": 185.5,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "臣，"
+  },
+  {
+   "onset": 187,
+   "duration": 0.5,
+   "midi": 66,
+   "lyric": "却"
+  },
+  {
+   "onset": 187.5,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "向"
+  },
+  {
+   "onset": 188,
+   "duration": 1.5,
+   "midi": 70,
+   "lyric": "谁"
+  },
+  {
+   "onset": 189.5,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "跪"
+  },
+  {
+   "onset": 190,
+   "duration": 0.5,
+   "midi": 68,
+   "lyric": "谢"
+  },
+  {
+   "onset": 190.5,
+   "duration": 0.5,
+   "midi": 63,
+   "lyric": null
+  },
+  {
+   "onset": 191,
+   "duration": 1,
+   "midi": 63,
+   "lyric": "隆"
+  },
+  {
+   "onset": 192,
+   "duration": 3,
+   "midi": 70,
+   "lyric": "恩。"
+  },
+  {
+   "onset": 195,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "不"
+  },
+  {
+   "onset": 195.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "拜"
+  },
+  {
+   "onset": 196,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "天"
+  },
+  {
+   "onset": 197,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "地"
+  },
+  {
+   "onset": 198,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "浩"
+  },
+  {
+   "onset": 198.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 198.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 199,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "荡，"
+  },
+  {
+   "onset": 200,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "河"
+  },
+  {
+   "onset": 200.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "山"
+  },
+  {
+   "onset": 201,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "永"
+  },
+  {
+   "onset": 201.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 202,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "蔚，"
+  },
+  {
+   "onset": 203,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "不"
+  },
+  {
+   "onset": 203.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "拜"
+  },
+  {
+   "onset": 204,
+   "duration": 1,
+   "midi": 80,
+   "lyric": "高"
+  },
+  {
+   "onset": 205,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "堂"
+  },
+  {
+   "onset": 206,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": "济"
+  },
+  {
+   "onset": 206.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 206.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 207,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "清"
+  },
+  {
+   "onset": 207.5,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 208,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 208.5,
+   "duration": 2.5,
+   "midi": 82,
+   "lyric": "辉，"
+  },
+  {
+   "onset": 211,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "拜"
+  },
+  {
+   "onset": 211.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "只"
+  },
+  {
+   "onset": 212,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "拜"
+  },
+  {
+   "onset": 213,
+   "duration": 1,
+   "midi": 82,
+   "lyric": "我"
+  },
+  {
+   "onset": 214,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "千"
+  },
+  {
+   "onset": 214.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 214.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 215,
+   "duration": 1,
+   "midi": 73,
+   "lyric": "秋"
+  },
+  {
+   "onset": 216,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": "荒"
+  },
+  {
+   "onset": 216.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "唐"
+  },
+  {
+   "onset": 217,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "这"
+  },
+  {
+   "onset": 217.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "一"
+  },
+  {
+   "onset": 218,
+   "duration": 1,
+   "midi": 75,
+   "lyric": "回，"
+  },
+  {
+   "onset": 219,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": "今"
+  },
+  {
+   "onset": 219.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": "宵"
+  },
+  {
+   "onset": 220,
+   "duration": 1,
+   "midi": 80,
+   "lyric": "我"
+  },
+  {
+   "onset": 221,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": "非"
+  },
+  {
+   "onset": 221.5,
+   "duration": 0.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 222,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": "最"
+  },
+  {
+   "onset": 222.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": "无"
+  },
+  {
+   "onset": 222.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 223,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": "忧"
+  },
+  {
+   "onset": 223.5,
+   "duration": 1,
+   "midi": 78,
+   "lyric": "的"
+  },
+  {
+   "onset": 224.5,
+   "duration": 2.5,
+   "midi": 75,
+   "lyric": "谁。"
+  },
+  {
+   "onset": 227,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 227.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 228,
+   "duration": 1,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 229,
+   "duration": 1,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 230,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 230.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 230.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 231,
+   "duration": 1,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 232,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 232.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 233,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 233.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 234,
+   "duration": 1,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 235,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 235.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 236,
+   "duration": 1,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 237,
+   "duration": 1,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 238,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 238.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 238.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 239,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 239.5,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 240,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 240.5,
+   "duration": 2.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 243,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 243.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 244,
+   "duration": 1,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 245,
+   "duration": 1,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 246,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 246.5,
+   "duration": 0.25,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 246.75,
+   "duration": 0.25,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 247,
+   "duration": 1,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 248,
+   "duration": 0.5,
+   "midi": 70,
+   "lyric": null
+  },
+  {
+   "onset": 248.5,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 249,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 249.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 250,
+   "duration": 1,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 251,
+   "duration": 0.5,
+   "midi": 75,
+   "lyric": null
+  },
+  {
+   "onset": 251.5,
+   "duration": 0.5,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 252,
+   "duration": 1,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 253,
+   "duration": 0.5,
+   "midi": 85,
+   "lyric": null
+  },
+  {
+   "onset": 253.5,
+   "duration": 0.5,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 254,
+   "duration": 0.5,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 254.5,
+   "duration": 0.25,
+   "midi": 82,
+   "lyric": null
+  },
+  {
+   "onset": 254.75,
+   "duration": 0.25,
+   "midi": 80,
+   "lyric": null
+  },
+  {
+   "onset": 255,
+   "duration": 0.5,
+   "midi": 73,
+   "lyric": null
+  },
+  {
+   "onset": 255.5,
+   "duration": 1,
+   "midi": 78,
+   "lyric": null
+  },
+  {
+   "onset": 256.5,
+   "duration": 3.5,
+   "midi": 75,
+   "lyric": null
+  }
+ ],
+ "duration": 260
+}
