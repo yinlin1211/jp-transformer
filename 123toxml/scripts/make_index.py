@@ -37,7 +37,7 @@ def main():
         loss_txt = " · ".join(losses[:6]) + (" …" if len(losses) > 6 else "")
         has_svg = os.path.exists(os.path.join(d, "mixed.svg"))
         thumbs = []
-        for label, fn in [("原谱简谱", "original_jianpu.png"), ("悦谱混排", "mixed.png")]:
+        for label, fn in [("原谱简谱", "original_jianpu.png"), ("y123 混排", "mixed.png")]:
             if os.path.exists(os.path.join(d, fn)):
                 thumbs.append(
                     f'<figure><img loading="lazy" src="cases/{html.escape(name)}/{fn}" '
@@ -82,7 +82,7 @@ main{{max-width:1200px;margin:0 auto;padding:32px 20px 80px}} h1{{font-size:26px
 .loss{{font-size:12px;color:var(--muted);word-break:break-all}} .links{{display:flex;gap:8px;flex-wrap:wrap}}
 .links a{{font-size:12px;border:1px solid var(--line);border-radius:6px;padding:3px 9px;color:var(--accent);text-decoration:none;background:#f8fafc}}
 </style></head><body><main>
-<h1>非 <code>{{play}}</code> 歌曲 · 苍强简谱 → 123 → MusicXML → 悦谱混排</h1>
+<h1>非 <code>{{play}}</code> 歌曲 · c123 → y123 → MusicXML → 混排</h1>
 <p class="lede">58 首里排除 36 首含 <code>{{play}}</code> 的，剩 22 首；21 首已出混排，遇萤 进 Dolce Mixed 失败。
 时值核对口径：官方 <code>playback_full</code>（source_occurrence=1）逐小节 duration 求和 vs 我方 MusicXML 小节时值。
 · <a href="https://github.com/yinlin1211/jp-transformer/blob/main/123toxml/NOTATION.md">记谱方法</a>

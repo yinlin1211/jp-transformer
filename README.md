@@ -9,7 +9,7 @@
 | 目录 | 说明 |
 |---|---|
 | [`abcto123toabc/`](abcto123toabc/) | ABC → 123 → ABC 往返；含 Amazing Grace 单曲渲染样例；不计和弦叠音，6795 / 6795 个非和弦音符一致（100%），29 / 29 个含非和弦音符的文件通过 |
-| [`123toxml/`](123toxml/) | 原始简谱（苍强 DSL）→ 悦谱 123 → MusicXML → Dolce Mixed；22 首非 play 样例，含原谱/混排 PNG、记谱方法说明与有损边界 |
+| [`123toxml/`](123toxml/) | c123 → y123 → MusicXML → 混排；22 首非 play 样例，含原谱/混排 PNG、记谱方法说明与有损边界 |
 
 ## 约定
 

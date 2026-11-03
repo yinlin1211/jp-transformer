@@ -1,4 +1,4 @@
-"""把 annotation58 的 58 首苍强简谱统一转成 123，并生成 MusicXML。
+"""把 annotation58 的 58 首 c123 统一转成 123，并生成 MusicXML。
 
 写谱形态：保留 |: :|、房号、跳转；{play}/{section}/{ms} 不进谱面（记为 loss）。
 """
