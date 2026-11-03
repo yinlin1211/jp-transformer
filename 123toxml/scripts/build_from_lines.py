@@ -1,6 +1,6 @@
 """Build 123 from the official written measures (line_*.json), then MusicXML.
 
-Why: raw 苍强 DSL has dialect quirks (cross-bar ties, endings inside slurs,
+Why: raw c123 DSL has dialect quirks (cross-bar ties, endings inside slurs,
 beam markers split by tags). The official runtime already normalizes each written
 measure in `download/669切分单行/<song>/line_*.json`; using that as the source
 keeps the measure grid and total duration identical to playback_full.

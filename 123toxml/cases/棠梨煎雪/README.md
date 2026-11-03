@@ -1,15 +1,15 @@
 # 棠梨煎雪 · 简谱 + 五线谱混排
 
 > 2026-11-03。输入：`raw_jianpu/<song>/source_原始简谱.json`。
-> 链路：苍强统一简谱 → 悦谱 123 → MusicXML → 悦谱 Dolce Mixed（五线谱上叠简谱层）→ 单页长图 PNG。
+> 链路：c123 → y123 → MusicXML → 混排（五线谱上叠简谱层）→ 单页长图 PNG。
 
 ## 成品
 
 | 文件 | 说明 |
 |---|---|
 | `original_jianpu.png` | 原谱简谱长图 |
-| `mixed.png` | 悦谱混排长图（只保留 PNG） |
-| `score.123` | 苍强简谱转出的悦谱 123 |
+| `mixed.png` | y123 混排长图（只保留 PNG） |
+| `score.123` | c123 转出的 y123 |
 | `score.musicxml` | 五线谱侧 MusicXML |
 | `preview.html` | 本地预览 |
 

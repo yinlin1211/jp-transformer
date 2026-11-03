@@ -1,4 +1,4 @@
-"""棠梨煎雪：苍强统一简谱 → 悦谱 123（保留反复）。"""
+"""棠梨煎雪：c123 → y123（保留反复）。"""
 import json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))

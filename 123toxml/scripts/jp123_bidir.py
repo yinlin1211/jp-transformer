@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""苍强简谱 DSL ⇄ Dolce 123 双向编解码器。
+"""c123 DSL ⇄ y123 双向编解码器。
 
 方向一（fwd）：我们的 songdata（notation + lyric）→ 123 文本
 方向二（rev）：123 文本 → 我们的 songdata
@@ -61,7 +61,7 @@ MARK_123_TO_OURS.update({
 DYNAMICS = {"p", "pp", "ppp", "mp", "mf", "f", "ff", "fff", "sf", "sfz",
             "crescendo", "diminuendo"}
 
-# 苍强标签里的记号短名 → 123 记号（源 runtime 多数不发声，但保留记号更利于展示）
+# c123 标签里的记号短名 → 123 记号（源 runtime 多数不发声，但保留记号更利于展示）
 TAG_MARK = {
     "dun": "!staccato!",
     "yc": "!fermata!",

@@ -1,14 +1,14 @@
-# 123 → MusicXML → 悦谱混排（非 `{play}` 歌曲）
+# c123 → y123 → MusicXML → 混排（非 `{play}` 歌曲）
 
 > 2026-11-03。58 首基准里排除 36 首含 `{play:}`，剩 **22 首非 play**。
 > **21 首已出混排**；`遇萤` 的 123/MusicXML 时值已对齐，但进 Dolce Mixed 仍失败。
 
 ## 打开
 
-- [`NOTATION.md`](NOTATION.md) — 原始简谱与悦谱 123 的记谱方法对照
+- [`NOTATION.md`](NOTATION.md) — c123 与 y123 的记谱方法对照
 - `index.html` — 22 首逐首状态、缩略图、文件链接
 - `cases/<歌名>/original_jianpu.png` — 原谱简谱长图
-- `cases/<歌名>/mixed.png` — 悦谱混排长图（只保留 PNG）
+- `cases/<歌名>/mixed.png` — y123 混排长图（只保留 PNG）
 - `cases/<歌名>/score.123` / `score.musicxml` — 中间文件
 - `report_durations.json` — 与官方 `playback_full` 的逐小节时值核对
 - `report_convert.json` / `report_xml.json` / `report_lines.json` — 转换统计
