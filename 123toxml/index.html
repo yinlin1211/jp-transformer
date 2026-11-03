@@ -1,0 +1,228 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>非 play 歌曲 · 123 → MusicXML → 混排</title>
+<style>
+:root{--ink:#1a202c;--muted:#718096;--line:#e2e8f0;--bg:#f7fafc;--accent:#2b6cb0}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",sans-serif}
+main{max-width:1200px;margin:0 auto;padding:32px 20px 80px} h1{font-size:26px;margin:0 0 6px}
+.lede{color:var(--muted);margin:0 0 18px} .summary{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 24px}
+.summary span{background:#fff;border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:13px}
+.case{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 20px}
+.head{display:flex;justify-content:space-between;gap:12px;align-items:center} .head h3{margin:0;font-size:17px}
+.pill{font-size:12px;border-radius:999px;padding:2px 10px;white-space:nowrap}
+.pill.ok{background:#e6fffa;color:#1c6b5f} .pill.warn{background:#fffaf0;color:#975a16} .pill.bad{background:#fff5f5;color:#9b2c2c}
+.meta{color:var(--muted);font-size:13px;margin:6px 0 10px}
+.thumbs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.thumbs figure{margin:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
+.thumbs img{width:100%;display:block;max-height:520px;object-fit:cover;object-position:top}
+.thumbs figcaption{font-size:12px;color:var(--muted);padding:4px 8px;border-top:1px solid var(--line)}
+.missing{padding:40px;text-align:center;color:var(--muted)}
+.loss{font-size:12px;color:var(--muted);word-break:break-all} .links{display:flex;gap:8px;flex-wrap:wrap}
+.links a{font-size:12px;border:1px solid var(--line);border-radius:6px;padding:3px 9px;color:var(--accent);text-decoration:none;background:#f8fafc}
+</style></head><body><main>
+<h1>非 <code>{play}</code> 歌曲 · 苍强简谱 → 123 → MusicXML → 悦谱混排</h1>
+<p class="lede">58 首里排除 36 首含 <code>{play}</code> 的，剩 22 首；21 首已出混排，遇萤 进 Dolce Mixed 失败。
+时值核对口径：官方 <code>playback_full</code>（source_occurrence=1）逐小节 duration 求和 vs 我方 MusicXML 小节时值。</p>
+<div class="summary"><span>共 22 首</span><span>逐小节一致 3</span>
+<span>总时值一致/小节线偏移 18</span>
+<span>总时值有差 0</span>
+<span>混排失败 1</span></div>
+
+<section class="case">
+  <div class="head"><h3>不老梦</h3><span class="pill ok">逐小节一致</span></div>
+  <p class="meta">官方 59 小节 / 175.0 拍 ·
+     我方 59 小节 / 175.0 拍 ·
+     差 0.0 拍 · 失配小节 0</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/不老梦/original_jianpu.png" alt="不老梦 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/不老梦/mixed.png" alt="不老梦 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:22 · slash-as-beam:2 · section-block-linearized · section-block-linearized · tag-dropped:start · section-block-linearized …</p>
+  <div class="links"><a href="cases/不老梦/original_jianpu.png">原谱 PNG</a><a href="cases/不老梦/mixed.png">混排 PNG</a><a href="cases/不老梦/score.123">123</a><a href="cases/不老梦/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>不谓侠-A</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 43 小节 / 170.0 拍 ·
+     我方 43 小节 / 170.0 拍 ·
+     差 0.0 拍 · 失配小节 2</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/不谓侠-A/original_jianpu.png" alt="不谓侠-A 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/不谓侠-A/mixed.png" alt="不谓侠-A 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:40 · section-block-linearized · section-block-linearized · section-block-linearized · section-block-linearized</p>
+  <div class="links"><a href="cases/不谓侠-A/original_jianpu.png">原谱 PNG</a><a href="cases/不谓侠-A/mixed.png">混排 PNG</a><a href="cases/不谓侠-A/score.123">123</a><a href="cases/不谓侠-A/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>不谓侠-B</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 65 小节 / 260.0 拍 ·
+     我方 65 小节 / 260.0 拍 ·
+     差 0.0 拍 · 失配小节 14</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/不谓侠-B/original_jianpu.png" alt="不谓侠-B 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/不谓侠-B/mixed.png" alt="不谓侠-B 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:52 · tag-dropped:hot · pinyin-slot-dropped · tie-group-marker-dropped · tie-group-marker-dropped · tag-dropped:f:&#x27;bG&#x27; …</p>
+  <div class="links"><a href="cases/不谓侠-B/original_jianpu.png">原谱 PNG</a><a href="cases/不谓侠-B/mixed.png">混排 PNG</a><a href="cases/不谓侠-B/score.123">123</a><a href="cases/不谓侠-B/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>东风第一枝</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 37 小节 / 153.25 拍 ·
+     我方 37 小节 / 153.25 拍 ·
+     差 0.0 拍 · 失配小节 13</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/东风第一枝/original_jianpu.png" alt="东风第一枝 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/东风第一枝/mixed.png" alt="东风第一枝 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:34 · lyric-group-to-brace:3 · raw-dropped:&#x27;n&#x27; · section-block-linearized · tag-dropped:lyric:&#x27;on&#x27; · section-block-linearized …</p>
+  <div class="links"><a href="cases/东风第一枝/original_jianpu.png">原谱 PNG</a><a href="cases/东风第一枝/mixed.png">混排 PNG</a><a href="cases/东风第一枝/score.123">123</a><a href="cases/东风第一枝/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>九万字</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 31 小节 / 122.0 拍 ·
+     我方 31 小节 / 122.0 拍 ·
+     差 0.0 拍 · 失配小节 6</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/九万字/original_jianpu.png" alt="九万字 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/九万字/mixed.png" alt="九万字 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:26 · raw-dropped:&#x27;:&#x27;</p>
+  <div class="links"><a href="cases/九万字/original_jianpu.png">原谱 PNG</a><a href="cases/九万字/mixed.png">混排 PNG</a><a href="cases/九万字/score.123">123</a><a href="cases/九万字/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>云烟成雨</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 50 小节 / 199.5 拍 ·
+     我方 50 小节 / 199.5 拍 ·
+     差 0.0 拍 · 失配小节 16</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/云烟成雨/original_jianpu.png" alt="云烟成雨 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/云烟成雨/mixed.png" alt="云烟成雨 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:20 · keynote-empty · section-block-linearized · section-block-linearized · section-block-linearized · section-block-linearized …</p>
+  <div class="links"><a href="cases/云烟成雨/original_jianpu.png">原谱 PNG</a><a href="cases/云烟成雨/mixed.png">混排 PNG</a><a href="cases/云烟成雨/score.123">123</a><a href="cases/云烟成雨/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>咏春</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 62 小节 / 243.0 拍 ·
+     我方 62 小节 / 243.0 拍 ·
+     差 0.0 拍 · 失配小节 6</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/咏春/original_jianpu.png" alt="咏春 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/咏春/mixed.png" alt="咏春 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:14 · bo-marker-dropped:4 · section-block-linearized · section-block-linearized · section-block-linearized · section-block-linearized …</p>
+  <div class="links"><a href="cases/咏春/original_jianpu.png">原谱 PNG</a><a href="cases/咏春/mixed.png">混排 PNG</a><a href="cases/咏春/score.123">123</a><a href="cases/咏春/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>壁上观</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 27 小节 / 112.0 拍 ·
+     我方 27 小节 / 112.0 拍 ·
+     差 0.0 拍 · 失配小节 8</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/壁上观/original_jianpu.png" alt="壁上观 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/壁上观/mixed.png" alt="壁上观 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:8</p>
+  <div class="links"><a href="cases/壁上观/original_jianpu.png">原谱 PNG</a><a href="cases/壁上观/mixed.png">混排 PNG</a><a href="cases/壁上观/score.123">123</a><a href="cases/壁上观/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>寄明月</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 82 小节 / 324.0 拍 ·
+     我方 82 小节 / 324.0 拍 ·
+     差 0.0 拍 · 失配小节 40</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/寄明月/original_jianpu.png" alt="寄明月 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/寄明月/mixed.png" alt="寄明月 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:49 · pinyin-slot-dropped</p>
+  <div class="links"><a href="cases/寄明月/original_jianpu.png">原谱 PNG</a><a href="cases/寄明月/mixed.png">混排 PNG</a><a href="cases/寄明月/score.123">123</a><a href="cases/寄明月/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>年轮</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 31 小节 / 119.0 拍 ·
+     我方 31 小节 / 119.0 拍 ·
+     差 0.0 拍 · 失配小节 14</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/年轮/original_jianpu.png" alt="年轮 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/年轮/mixed.png" alt="年轮 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:12</p>
+  <div class="links"><a href="cases/年轮/original_jianpu.png">原谱 PNG</a><a href="cases/年轮/mixed.png">混排 PNG</a><a href="cases/年轮/score.123">123</a><a href="cases/年轮/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>我的一个道姑朋友</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 87 小节 / 345.0 拍 ·
+     我方 87 小节 / 345.0 拍 ·
+     差 0.0 拍 · 失配小节 18</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/我的一个道姑朋友/original_jianpu.png" alt="我的一个道姑朋友 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/我的一个道姑朋友/mixed.png" alt="我的一个道姑朋友 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: section-labels-stripped · linebreaks-joined:40 · tag-dropped:f:&#x27;A4&#x27; · tag-unknown:o3f:&#x27;A&#x27; · tag-dropped:f:&#x27;C&#x27; · tag-unknown:o3f:&#x27;C&#x27; …</p>
+  <div class="links"><a href="cases/我的一个道姑朋友/original_jianpu.png">原谱 PNG</a><a href="cases/我的一个道姑朋友/mixed.png">混排 PNG</a><a href="cases/我的一个道姑朋友/score.123">123</a><a href="cases/我的一个道姑朋友/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>拜无忧</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 43 小节 / 172.0 拍 ·
+     我方 43 小节 / 172.0 拍 ·
+     差 0.0 拍 · 失配小节 14</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/拜无忧/original_jianpu.png" alt="拜无忧 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/拜无忧/mixed.png" alt="拜无忧 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:9 · section-block-linearized · section-block-linearized</p>
+  <div class="links"><a href="cases/拜无忧/original_jianpu.png">原谱 PNG</a><a href="cases/拜无忧/mixed.png">混排 PNG</a><a href="cases/拜无忧/score.123">123</a><a href="cases/拜无忧/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>明月天涯</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 50 小节 / 192.0 拍 ·
+     我方 50 小节 / 192.0 拍 ·
+     差 0.0 拍 · 失配小节 4</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/明月天涯/original_jianpu.png" alt="明月天涯 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/明月天涯/mixed.png" alt="明月天涯 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:32 · lyric-group-to-brace:6 · section-block-linearized · pinyin-slot-dropped · section-block-linearized · tag-unknown::&#x27;start2&#x27; …</p>
+  <div class="links"><a href="cases/明月天涯/original_jianpu.png">原谱 PNG</a><a href="cases/明月天涯/mixed.png">混排 PNG</a><a href="cases/明月天涯/score.123">123</a><a href="cases/明月天涯/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>春三月-A</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 52 小节 / 206.0 拍 ·
+     我方 52 小节 / 206.0 拍 ·
+     差 0.0 拍 · 失配小节 13</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/春三月-A/original_jianpu.png" alt="春三月-A 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/春三月-A/mixed.png" alt="春三月-A 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:6 · bo-marker-dropped:1 · pinyin-slot-dropped · tag-dropped:hint:&#x27;女声&#x27; · section-block-linearized · section-block-linearized …</p>
+  <div class="links"><a href="cases/春三月-A/original_jianpu.png">原谱 PNG</a><a href="cases/春三月-A/mixed.png">混排 PNG</a><a href="cases/春三月-A/score.123">123</a><a href="cases/春三月-A/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>春三月-B</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 42 小节 / 168.0 拍 ·
+     我方 42 小节 / 168.0 拍 ·
+     差 0.0 拍 · 失配小节 10</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/春三月-B/original_jianpu.png" alt="春三月-B 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/春三月-B/mixed.png" alt="春三月-B 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:18 · tag-dropped:omit:&#x27;9m&#x27;</p>
+  <div class="links"><a href="cases/春三月-B/original_jianpu.png">原谱 PNG</a><a href="cases/春三月-B/mixed.png">混排 PNG</a><a href="cases/春三月-B/score.123">123</a><a href="cases/春三月-B/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>棠梨煎雪</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 44 小节 / 176.0 拍 ·
+     我方 44 小节 / 176.0 拍 ·
+     差 0.0 拍 · 失配小节 2</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/棠梨煎雪/original_jianpu.png" alt="棠梨煎雪 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/棠梨煎雪/mixed.png" alt="棠梨煎雪 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:15 · tag-dropped:hot</p>
+  <div class="links"><a href="cases/棠梨煎雪/original_jianpu.png">原谱 PNG</a><a href="cases/棠梨煎雪/mixed.png">混排 PNG</a><a href="cases/棠梨煎雪/score.123">123</a><a href="cases/棠梨煎雪/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>牵丝戏</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 34 小节 / 130.0 拍 ·
+     我方 34 小节 / 130.0 拍 ·
+     差 0.0 拍 · 失配小节 15</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/牵丝戏/original_jianpu.png" alt="牵丝戏 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/牵丝戏/mixed.png" alt="牵丝戏 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:13 · tag-dropped:hot</p>
+  <div class="links"><a href="cases/牵丝戏/original_jianpu.png">原谱 PNG</a><a href="cases/牵丝戏/mixed.png">混排 PNG</a><a href="cases/牵丝戏/score.123">123</a><a href="cases/牵丝戏/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>腐草为萤</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 36 小节 / 144.0 拍 ·
+     我方 36 小节 / 144.0 拍 ·
+     差 0.0 拍 · 失配小节 6</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/腐草为萤/original_jianpu.png" alt="腐草为萤 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/腐草为萤/mixed.png" alt="腐草为萤 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:22 · raw-dropped:&#x27;.&#x27; · section-block-linearized · section-block-linearized · section-block-linearized · section-block-linearized</p>
+  <div class="links"><a href="cases/腐草为萤/original_jianpu.png">原谱 PNG</a><a href="cases/腐草为萤/mixed.png">混排 PNG</a><a href="cases/腐草为萤/score.123">123</a><a href="cases/腐草为萤/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>虞兮叹</h3><span class="pill ok">逐小节一致</span></div>
+  <p class="meta">官方 34 小节 / 136.0 拍 ·
+     我方 34 小节 / 136.0 拍 ·
+     差 0.0 拍 · 失配小节 0</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/虞兮叹/original_jianpu.png" alt="虞兮叹 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/虞兮叹/mixed.png" alt="虞兮叹 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:14 · tag-dropped:omit:&#x27;7m&#x27; · key-b-tonic-octave-shift:+8</p>
+  <div class="links"><a href="cases/虞兮叹/original_jianpu.png">原谱 PNG</a><a href="cases/虞兮叹/mixed.png">混排 PNG</a><a href="cases/虞兮叹/score.123">123</a><a href="cases/虞兮叹/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>赤伶</h3><span class="pill warn">总时值一致 · 小节线偏移</span></div>
+  <p class="meta">官方 59 小节 / 236.0 拍 ·
+     我方 59 小节 / 236.0 拍 ·
+     差 0.0 拍 · 失配小节 14</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/赤伶/original_jianpu.png" alt="赤伶 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/赤伶/mixed.png" alt="赤伶 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:41 · keynote-empty · section-block-linearized · section-block-linearized · section-block-linearized · section-block-linearized …</p>
+  <div class="links"><a href="cases/赤伶/original_jianpu.png">原谱 PNG</a><a href="cases/赤伶/mixed.png">混排 PNG</a><a href="cases/赤伶/score.123">123</a><a href="cases/赤伶/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>辞·九门回忆</h3><span class="pill ok">逐小节一致</span></div>
+  <p class="meta">官方 48 小节 / 188.0 拍 ·
+     我方 48 小节 / 188.0 拍 ·
+     差 0.0 拍 · 失配小节 0</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/辞·九门回忆/original_jianpu.png" alt="辞·九门回忆 原谱简谱"><figcaption>原谱简谱</figcaption></figure><figure><img loading="lazy" src="cases/辞·九门回忆/mixed.png" alt="辞·九门回忆 悦谱混排"><figcaption>悦谱混排</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:13 · slash-as-beam:2 · tag-dropped:hot · section-block-linearized · section-block-linearized · tag-unknown::&#x27;2_4&#x27; …</p>
+  <div class="links"><a href="cases/辞·九门回忆/original_jianpu.png">原谱 PNG</a><a href="cases/辞·九门回忆/mixed.png">混排 PNG</a><a href="cases/辞·九门回忆/score.123">123</a><a href="cases/辞·九门回忆/score.musicxml">MusicXML</a></div>
+</section>
+<section class="case">
+  <div class="head"><h3>遇萤</h3><span class="pill bad">混排渲染失败</span></div>
+  <p class="meta">官方 56 小节 / 190.0 拍 ·
+     我方 56 小节 / 190.0 拍 ·
+     差 0.0 拍 · 失配小节 11</p>
+  <div class="thumb"><div class="thumbs"><figure><img loading="lazy" src="cases/遇萤/original_jianpu.png" alt="遇萤 原谱简谱"><figcaption>原谱简谱</figcaption></figure></div></div>
+  <p class="loss">losses: linebreaks-joined:28 · slash-as-beam:139 · section-block-linearized · section-block-linearized · raw-dropped:&#x27;%&#x27; · raw-dropped:&#x27;%&#x27; …</p>
+  <div class="links"><a href="cases/遇萤/original_jianpu.png">原谱 PNG</a><a href="cases/遇萤/score.123">123</a><a href="cases/遇萤/score.musicxml">MusicXML</a></div>
+</section>
+</main></body></html>

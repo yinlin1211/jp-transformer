@@ -1,0 +1,824 @@
+{
+ "春三月-A": {
+  "song": "春三月-A",
+  "source": "raw_jianpu/春三月-A/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:6",
+   "bo-marker-dropped:1",
+   "pinyin-slot-dropped",
+   "tag-dropped:hint:'女声'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:start",
+   "raw-dropped:'bo'"
+  ],
+  "header": {
+   "key": "bE",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "阳春三月初满枝迎春新花栖木，天留片片白云/风/上住。孩童推门去又放纸鸢笑声满路，手中长线没入天尽处。谁人悄约时恰得一片桃花满目，手边流云与落/英/相逐。河水桥下淌风倚柳青岸上住，鸟儿绕纸鸢声声/诉。/三月来百草开盈香满袖万物苏，虫鸣和着欢笑心事/舒。/三月来暖阳复相携去踏青处，陌上花开满路香入//土。/三月来有归人马踏浅草声催促，春有期归有日今归/途。/三月来生情愫春刚复情入骨，借缕东风互诉相爱/慕。///慕。//阳春三月初正是人间好花簇簇，人逢此景欢喜/由/心处。阳春三月来自有生命/破尘土，送来希望事好运/出。"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 0,
+  "ending_open": 2,
+  "final_bar": 2,
+  "has_play": false,
+  "has_house": true
+ },
+ "遇萤": {
+  "song": "遇萤",
+  "source": "raw_jianpu/遇萤/source.json",
+  "bpm_from_playback": 67,
+  "losses": [
+   "linebreaks-joined:28",
+   "slash-as-beam:139",
+   "section-block-linearized",
+   "section-block-linearized",
+   "raw-dropped:'%'",
+   "raw-dropped:'%'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-unknown::'cqqp'",
+   "tag-dropped:text:'……'"
+  ],
+  "header": {
+   "key": "A",
+   "rhythm": "4/4 2/4",
+   "bpm": 67.0,
+   "verses": [
+    "若千年的光阴 轮回里，是否只为寻觅着你，恍若所有月明，圆缺或是阴晴，都只为了你。尘缘似一场花雨，眉目缱绻中枯寂，指间的瞬息，拾得你一颗泪/滴。若忘川的涟漪 随我心，是否只为不忘记你，恍若所有思绪，怜惜或是悲戚，都只为了你。尘缘似一场烟影，眉目缱绻中飘零，心之所寄，劫数应声而////起。前生今生来生，/与你相遇，在每个梦/里，拂袖唤漫天流萤，掌心微光谁眼中倒映。/回眸不舍离去，/此情为你，在心上/停栖，/下一世/再与/你永不分/离。若忘/离。前生今生来生，/与你相遇，在每个梦/里，拂袖唤漫天流萤，掌心微光谁眼中倒映。/回眸不舍离去，/此情为你，在心上/停栖，/下一世/再与/你永不分/离，这一世/都与/你共存天/地。",
+    "/////////////////////////////////////////////////////////////若忘川的涟漪 随我心，是否只为不忘记你，恍若所有思绪，怜惜或是悲戚，都只为了你。尘缘似一场流萤，眉目缱绻中宁静，照谁前行，灿////若彻夜繁星。"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "不老梦": {
+  "song": "不老梦",
+  "source": "raw_jianpu/不老梦/source.json",
+  "bpm_from_playback": 74,
+  "losses": [
+   "linebreaks-joined:22",
+   "slash-as-beam:2",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:start",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-unknown::'cqqp'",
+   "tag-dropped:text:'尾奏同前奏'",
+   "section-block-linearized",
+   "key-b-tonic-octave-shift:+8"
+  ],
+  "header": {
+   "key": "bB",
+   "rhythm": "3/4",
+   "bpm": 74.0,
+   "verses": [
+    "等不到鬓雪相/拥，重饮渭水畔那一盏虔诚。终究是绸缪青冢，替我将灞桥柳供奉。来世再漱月鸣筝，也许还能道声久别珍重，天意总将人捉弄，怎奈何身不由己情衷。于万人中万幸得以相逢，刹那间澈净明通，成为我所向披靡的勇气和惶恐，裂山海，/堕苍穹。/爱若执炬迎风，炽烈而哀恸，诸般滋味皆在其中。韶华宛转吟诵，苍凉的光荣，急景凋年深情难共。",
+    "倏忽天地琉璃/灯，光阴过处徒留皎月几盅。温柔了十方春冬，眷你眉目在我眼瞳。彼时击节讴新声，唱彻白首之约抱柱之盟。摩肩人步履匆匆，多少相遇能有始有终。若要忘却年少轻狂的痛，从此后分赴西东，不如作蜉蝣麻衣霜染淋漓死生，恣朝暮，/彀长空。/卸去人间妆红，我终于读懂，痴心熬尽才可倾城。唯有亘古寒峰，能安葬浮生，至死不渝的一场/梦。天光",
+    "////////////////////////////////////////////////////////////////////////////////////////////////////////天光落笔波折，岁月都干涸，只剩别离来不及说。宁愿折心沐火，舍不得勘破，是你唇边夜雨清////荷。"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 3,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "赤伶": {
+  "song": "赤伶",
+  "source": "raw_jianpu/赤伶/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:41",
+   "keynote-empty",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "key-missing-octave-shift:+8"
+  ],
+  "header": {
+   "key": null,
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "台下人走过不见旧颜色台上人唱着心碎离别/歌情字难落寞她唱须已血来/和戏幕起戏幕落谁是/客/戏一折水袖起落唱悲欢离合无关//我/扇开合锣鼓响又默戏中情戏外人凭谁/说/官降喜怒哀乐都融入粉末陈词唱穿又如何白骨青灰皆/我/乱世浮萍忍看烽火燃山河位卑未敢忘忧国哪怕无人知/我台下人走过不见旧颜色台上人唱着心碎离别/歌情字难落墨她唱须已血来/和戏幕起戏幕落谁是/客//客/你方唱罢我/登/场莫嘲风月戏莫笑人荒/唐也曾问青黄也曾铿锵唱兴/亡道无情道有情怎思/量/道无情道有情费思/量"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "壁上观": {
+  "song": "壁上观",
+  "source": "raw_jianpu/壁上观/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:8"
+  ],
+  "header": {
+   "key": "E",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "遗忘的沙绕指尖流转/云楼仙子水袖缠绵/迦蓝菩提下/客到来/梦邀起舞八部天/嶙峋的沟壑起伏层峦/笙箫琵琶金色步辇/千秋黄沙不曾退减/全唐的浓墨重彩/一刹那栩栩缕影/浮光映/宫阙错问今夕是何/年轻胡旋伎舞灯火/在何处/长/眠伴着繁星映诸/天/雪浸染万千华光/钟声塑/佛龛此去蒙尘饮乐/宴朱颜改怎不见窟/画昔日/璀/璨却醒来作壁上/观/来作壁上/观"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "明月天涯": {
+  "song": "明月天涯",
+  "source": "raw_jianpu/明月天涯/source.json",
+  "bpm_from_playback": 64,
+  "losses": [
+   "linebreaks-joined:32",
+   "lyric-group-to-brace:6",
+   "section-block-linearized",
+   "pinyin-slot-dropped",
+   "section-block-linearized",
+   "tag-unknown::'start2'",
+   "tag-unknown::'start1'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-unknown::'ds2'",
+   "raw-dropped:'['",
+   "raw-dropped:'e'",
+   "raw-dropped:':'",
+   "section-block-linearized",
+   "section-block-linearized"
+  ],
+  "header": {
+   "key": "G",
+   "rhythm": "4/4 2/4",
+   "bpm": 64.0,
+   "verses": [
+    "{⒈游}侠某，名远传，而今江湖谈，仇者多，友两三，但逢敌手难。雨尽碎，风如潮，出手引狂澜，未收招，三声笑，皆醉了。远风急，忽回首，明月漫千山，天地渺，意气满，踏歌至长安，灯影繁，酒正暖，满座均贪欢，众人酣，拂衣散，乌云然。{⒈⒉唯}此间江湖年少，偏爱纵横天下，恩仇趁年华轻剑快马，红尘未破也无甚牵挂，只恋生杀，醉里论道，醒时折花。论道，醒时折花。{⒊唯}此间论道，醒时折花。/{⒋传}言道依旧，明月天涯。",
+    "{⒉游}侠某，名远传，而今江湖谈，仇者多，友两三，相逢皆恨晚。檐上霜，窗边月，为我留一盏，过江南，踏天山，不曾还。剑影翩，血光寒，似鬼亦似仙，说书人，应笑我，既疯也如癫，辩正邪，如明月，今圆别时缺，倒不如，一拍案，入寒渊。{⒋传}言道江湖年少，不谙世事繁华，是敌是友不妨一战罢，待何人何年有心与我，拭血论茶，梦里///////////////////////////////"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 3,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "不谓侠-A": {
+  "song": "不谓侠-A",
+  "source": "raw_jianpu/不谓侠-A/source.json",
+  "bpm_from_playback": 63,
+  "losses": [
+   "linebreaks-joined:40",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized"
+  ],
+  "header": {
+   "key": "#C",
+   "rhythm": "4/4",
+   "bpm": 63.0,
+   "verses": [
+    "衣襟上，别好了晚霞，余晖送我牵匹老马，正路过，烟村里人/家，恰似当年故里正飞花。醉过风，喝过茶，寻常巷口寻个酒家，在座皆算老友，碗底便是天涯。天涯远，无处不为家，蓬门自我也像广厦，论意气，不计多或/寡，占三分便敢自称为侠。刀可捉，拳也耍，偶尔闲来问个生杀，没得英雄名讳，掂量些旧事抵酒价。向江南折过花，对春风与红蜡，多情总似我，风流/爱天下，人世肯相逢，知己幸有七八，邀我拍坛去，醉眼万斗烟霞。向江北饮过马，对西风与黄沙，无情也似我，向剑底斩桃花，人世难相逢，谢青山催白发，慷慨唯霜雪，相赠眉间一道疤。相赠眉间一道疤。当此世，赢输都算闲话，来换杯陈酒，天纵/我潇洒，风流不曾老，弹铗唱作年华，凭我纵马去，过剑底杯中觅生涯。当此世，生死也算闲话，来换场豪醉，不负天纵潇洒，风流不曾老，弹铗唱作年华，凭我自由去，只做狂人不谓侠。",
+    "过三巡，酒气开月华，浓醉到五更不还家，漫说道，无瑕少年/事，敢夸玉带宝剑青骢马。眠星子，枕霜花，旧茅草也比神仙塌，交游任意南北，洒落不计冬夏。算冬夏，豪气未曾罢，再砥砺剑锋出京华，问来人，胸襟谁似/我，将日月山海一并笑纳。只姓名，不作答，转身向云外寄生涯，不必英雄名讳，记两个旧事抵酒价。//////////////////////////////////////////////////////////////引剑锋斩桃花，"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-01": {
+  "song": "song-01",
+  "source": "raw_jianpu/song-01/source.json",
+  "skipped": "has-play"
+ },
+ "song-02": {
+  "song": "song-02",
+  "source": "raw_jianpu/song-02/source.json",
+  "skipped": "has-play"
+ },
+ "辞·九门回忆": {
+  "song": "辞·九门回忆",
+  "source": "raw_jianpu/辞·九门回忆/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:13",
+   "slash-as-beam:2",
+   "tag-dropped:hot",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-unknown::'2_4'",
+   "tag-unknown::'4_4'",
+   "raw-dropped:'x'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized"
+  ],
+  "header": {
+   "key": "bA",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "一曲定重/楼，一 眼半生筹,看的全都是那诡谲云涌,入得此门不回首,无 需宣之于口,我对案再拜{；}那风雨瓢泼的残陋再聚首。 戏子多{；}秋，可怜一处情深{；}旧。满座衣冠皆老朽，黄泉 故事无止/休,戏无骨/难左右,换过一折又重/头,只道 最是人间不能留。/误//闯天/家,劝余放下手中/砂,张口 欲唱声却/哑,粉面披衣叫个/假。怜余来/安座/下不敢 沾染佛前/茶,只作凡人赴雪月风//花。",
+    "绕过胭脂{；}楼，打 散结发扣，唱的全都是那情深不寿。入得此门不回首,无 需宣之于口,我对镜遮掩/那风雨瓢泼的残陋碑已旧。 戏子多{；}秋可怜一处情深{；}旧。满座衣冠皆老朽，黄泉 故事无止/休,戏无骨/难左右,换过一折又重/头,只道 最是人间不能留。/误//闯天/家,劝余放下手中/砂,送那 人御街打/马,才子佳人断佳/话。 怜余来/苦咽/下求不 得/佛前/茶,只留三寸土种二月//////花。"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "我的一个道姑朋友": {
+  "song": "我的一个道姑朋友",
+  "source": "raw_jianpu/我的一个道姑朋友/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "section-labels-stripped",
+   "linebreaks-joined:40",
+   "tag-dropped:f:'A4'",
+   "tag-unknown:o3f:'A'",
+   "tag-dropped:f:'C'",
+   "tag-unknown:o3f:'C'",
+   "raw-dropped:'$'",
+   "raw-dropped:'$'"
+  ],
+  "header": {
+   "key": "bD",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "而你撑伞拥我入怀/中 一字一句誓言多慎/重 你眼中有柔情千种/ 如脉脉/春风/ 冰雪也消/融 哦{；}啊{；} 那年长街春意/正/浓 策马同游/ 烟雨如梦 檐下躲雨 望进/一/双深邃眼瞳/ 宛如华山夹着细雪的微风 雨丝微凉 风吹过暗香朦胧 一时心头悸动 似你温柔剑锋 过处翩若惊鸿// 是否情字写来都/空洞 一笔一画斟酌着/奉送 甘愿卑微换个笑/容 或沦为/平庸/ 而你撑伞拥我入/怀中 一字一句誓言多/慎重 你眼中有柔情千/种 如脉脉/春风 冰雪也消融  后来谁家喜宴/重/逢 佳人在侧/ 烛影摇红 灯火缱绻 映照/一/双如画颜容/ 宛如豆蔻枝头温柔的旧梦 对面不识 恍然间思绪翻涌 望你白衣如旧 神色几分冰冻 谁知我心惶恐/ 也许我应该趁醉/装疯 借你怀抱留一抹/唇红 再将旧事轻歌慢/诵 任旁人/惊动/ 可我只能假笑扮/从容 侧耳听那些情深/意重 不去看你熟悉脸/孔 只默默/饮酒 多无动于衷//  山门外 雪拂过白衣/ 又在指尖消融 负长剑/ 试问江湖诺/大 该何去何从/ 今生至此 像个笑话一/样 自己都嘲讽 一厢情愿 有始无终///{；} 哦{；}{；}{；}{；}{；}{；}{；}{；}{；}  若你早与他人两{；}心同 何苦惹我错付了{；}情衷 难道看我失魂落{；}魄 你竟然{；}心动{；} 所幸经年漂浮红{；}尘中 这颗心已是千疮{；}百孔 怎惧你以薄情为{；}刃 添一道{；}裂缝 又不会痛{；}{；} 不如将往事埋在{；}风中{；}{；} 以长剑为碑 以霜雪{；}为冢{；} 此生若是错在相{；}逢 求一个{；}善终{；}{；}{；}{；} 孤身打马南屏旧{；}桥边过 恰逢山雨来时雾{；}蒙蒙{；} 想起那年伞下轻{；}拥 就像躺{；}在桥{；}索之上 做{；}了一场梦 梦醒后跌{；}落 粉身碎骨 无影亦无踪{；}"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 0,
+  "ending_open": 0,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-03": {
+  "song": "song-03",
+  "source": "raw_jianpu/song-03/source.json",
+  "skipped": "has-play"
+ },
+ "song-04": {
+  "song": "song-04",
+  "source": "raw_jianpu/song-04/source.json",
+  "skipped": "has-play"
+ },
+ "song-05": {
+  "song": "song-05",
+  "source": "raw_jianpu/song-05/source.json",
+  "skipped": "has-play"
+ },
+ "song-06": {
+  "song": "song-06",
+  "source": "raw_jianpu/song-06/source.json",
+  "skipped": "has-play"
+ },
+ "棠梨煎雪": {
+  "song": "棠梨煎雪",
+  "source": "raw_jianpu/棠梨煎雪/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:15",
+   "tag-dropped:hot"
+  ],
+  "header": {
+   "key": "C",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "青鲤来时遥闻春溪声声碎 嗅得手植棠梨初发轻黄蕊 待小暑悄过 新梨渐垂 来邀东邻女伴撷果缓缓归  旧岁采得/枝头细雪 今朝飘落/胭脂梨叶 轻/挼草色二三入卷 细呷春酒淡始/觉/甜/ 依旧是 偏爱枕惊鸿/二字入梦的时节 烛火惺忪却可与她漫/聊彻夜 早春暮春 酒暖花深 便好似一生心事只得一人来解 岁岁花藻檐下共将棠/梨煎雪 自总角至你我某日辗/转天边 天淡/天青 宿雨沾襟 一年一会信笺却只见寥寥数言  雨中灯市欲眠 原已萧/萧数年 似有故人轻叩 再将棠/梨煎雪 能否消得 你一路而/来的半生/风/雪"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 0,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": false
+ },
+ "song-07": {
+  "song": "song-07",
+  "source": "raw_jianpu/song-07/source.json",
+  "skipped": "has-play"
+ },
+ "不谓侠-B": {
+  "song": "不谓侠-B",
+  "source": "raw_jianpu/不谓侠-B/source.json",
+  "bpm_from_playback": 110,
+  "losses": [
+   "linebreaks-joined:52",
+   "tag-dropped:hot",
+   "pinyin-slot-dropped",
+   "tie-group-marker-dropped",
+   "tie-group-marker-dropped",
+   "tag-dropped:f:'bG'",
+   "tag-unknown:o3f:'bG'"
+  ],
+  "header": {
+   "key": "G",
+   "rhythm": "4/4",
+   "bpm": 110.0,
+   "verses": [
+    "衣襟上 别好了晚霞 余晖送我牵匹老马 正路过 烟村里人{；}家 恰似当年故里正飞花{；} 醉过风 喝过茶 寻常巷口寻个酒家{；} 在座皆算老友{；}{；} 碗底便是天涯{；}{；} 天涯远 无处不为家 蓬门自我也像广厦 论意气 不计多或寡 占三分便敢自称为侠{；} 刀可捉 拳也耍 偶尔闲来问个生杀{；} 没得英雄名讳 掂量些旧事抵酒价 向江南折过花 对春风与红蜡 多情总似我 风流{；}爱天下 人世肯相逢 知己幸有七八 邀我拍坛去 醉眼万斗烟霞{；} 向江北饮过马 对西风与黄沙 无情也似我 向剑底斩桃花 人世难相逢 谢青山催白发 慷慨唯霜雪 相赠眉间一道疤疤  当此世 赢输都算闲话 来换杯陈酒 天纵/我潇洒 风流不曾老 弹铗唱作年华 凭我纵马去 过剑底杯中觅生涯 当此世 生死也算闲话 来换场豪醉 不负天纵潇洒 风流不曾老 弹铗唱作年华 凭我自由去 只做狂人不谓侠",
+    "过三巡 酒气开月华 浓醉到五更不还家 漫说道 无瑕少年{；}事 敢夸玉带宝剑青骢马{；} 眠星子 枕霜花 就茅草也比神仙塌{；} 交游任意南北{；}{；} 洒落不计冬夏{；}{；} 算冬夏 豪气未曾罢 再砥砺剑锋出京华 问来人 胸襟谁似我 将日月山海一并笑纳{；} 只姓名 不作答 转身向云外寄生涯{；} 不必英雄名讳 记两个旧事抵酒价{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；} {；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；} {；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；}{；} /"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "年轮": {
+  "song": "年轮",
+  "source": "raw_jianpu/年轮/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:12"
+  ],
+  "header": {
+   "key": "D",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "圆圈勾勒成指纹 印在我/的嘴唇 回忆苦涩的吻痕 是树/根/ 春去秋来的茂盛 却遮住/了黄昏 寒夜剩我一个人 等清/晨 世间最毒的仇恨 是有缘/却无分 可惜你从未心疼 我的/笨/ 荒草丛生的青春 倒也过{；}的安稳 安稳 代替你陪着我的 是年/轮 数着一圈圈年轮 我认真 将心事/都封存 密密麻麻是我的/自/尊 修改一次次离分 我承认 曾幻想/过永恒 可惜从没人陪我演这剧/本   一圈圈  剧/本 可惜从没人陪我演这/剧/本"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 2,
+  "ending_open": 4,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-08": {
+  "song": "song-08",
+  "source": "raw_jianpu/song-08/source.json",
+  "skipped": "has-play"
+ },
+ "song-09": {
+  "song": "song-09",
+  "source": "raw_jianpu/song-09/source.json",
+  "skipped": "has-play"
+ },
+ "牵丝戏": {
+  "song": "牵丝戏",
+  "source": "raw_jianpu/牵丝戏/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:13",
+   "tag-dropped:hot"
+  ],
+  "header": {
+   "key": "F",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "嘲笑谁恃美扬威/ 没了心如何相配/ 盘铃声清脆 帷幕间灯火幽微/ 我和你/ 最天生/一对  没了你才算原罪/ 没了心才好相配/ 你褴褛我彩//绘/ 并肩行过山与水/ 你憔悴/ 我替你/明媚 是你吻开/笔墨 染我眼角/珠泪 演离合相/遇悲喜/为谁 他们迂回/误会 我却只由你支配/ 问世间/哪有更/完美  兰花指捻红尘似//水/ 三尺红台 万事入歌/吹/ 唱别/久悲不成悲 十分红处竟成灰 愿谁记得谁 最好的年/岁/",
+    "//////////////// /////////////////// //// 你一牵我舞如飞/ 你一引我懂进退/ 苦乐///都跟随/ 举手投足不违背/ 将谦卑/ 温柔成/绝对  你错我不/肯对 你懵懂我/蒙昧 心火怎甘/心扬汤/止沸 你枯我不/曾萎 你倦我也不敢累/ 用什么/暖你一/千岁  风雪依稀秋白发//尾/ 灯火葳蕤 揉皱你眼/眉/ 假如/你舍一滴泪 假如老去我能陪 烟波里成灰 也去得完/美"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 2,
+  "ending_open": 2,
+  "final_bar": 0,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-10": {
+  "song": "song-10",
+  "source": "raw_jianpu/song-10/source.json",
+  "skipped": "has-play"
+ },
+ "song-11": {
+  "song": "song-11",
+  "source": "raw_jianpu/song-11/source.json",
+  "skipped": "has-play"
+ },
+ "拜无忧": {
+  "song": "拜无忧",
+  "source": "raw_jianpu/拜无忧/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:9",
+   "section-block-linearized",
+   "section-block-linearized"
+  ],
+  "header": {
+   "key": "#F",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "腾驹摘陌上/的星辰，蟒袍被夜露/溅满身，有北风自鬓边/凛凛长奔，/远胜过故都的/温/存。/越放旷潦/倒，越深种情根，/我情愿，扮个浪子王/孙。/如世间璧/人，对坐烛影黄昏，何须谁来赐/平身。不拜天地浩//荡，河山永/蔚，不拜高堂济//清//辉，/拜只拜我千//秋荒唐这一回，今宵我非/殿上/那个/谁。/拨我非/殿上/那个/谁。/一拜天地浩//荡，河山永/蔚，二拜高堂济//清//辉，/拜我鲜花着//锦山呼万万岁，忽觉我非/最无/忧的/谁。/",
+    "/箭寻古道/的辙痕，华盖在暮色/中鲸吞，当狼烟去云端/一骑绝尘，/普天下，才唯我/独/尊。/越招摇坐/镇，越戏弄乾坤，/我偏要，来个妙算如/神。/藐烽火诸/侯，只道俯首称臣，却向谁跪谢/隆恩。"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-12": {
+  "song": "song-12",
+  "source": "raw_jianpu/song-12/source.json",
+  "skipped": "has-play"
+ },
+ "春三月-B": {
+  "song": "春三月-B",
+  "source": "raw_jianpu/春三月-B/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:18",
+   "tag-dropped:omit:'9m'"
+  ],
+  "header": {
+   "key": "bE",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "阳春三月初满枝迎春新花栖木 天留片片白云/风/上住 孩童推门去又放纸鸢笑声满路 手中长线没入天尽处 谁人悄约时恰得一片桃华满目 手边流云与落/英/相逐 河水桥下淌风倚柳青岸上住 鸟儿绕纸鸢 声声/诉/ 三月来百草开盈香满袖万物苏 虫鸣和着欢笑 心事/舒/ 三月来暖阳复 相携去 踏青处 陌上花开满路 香入/土 三月来有归人 马踏浅草声催促 春有期归有日 今归/途/ 三月来生情愫 春刚复 情入骨 借缕东风互诉 相爱/慕/ /慕/    阳春三月初 正是人间好花簇簇 人逢此景欢喜/由/心处 阳春三月来 自有生命破尘土 送来希望事 好运/出/"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-13": {
+  "song": "song-13",
+  "source": "raw_jianpu/song-13/source.json",
+  "skipped": "has-play"
+ },
+ "腐草为萤": {
+  "song": "腐草为萤",
+  "source": "raw_jianpu/腐草为萤/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:22",
+   "raw-dropped:'.'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized"
+  ],
+  "header": {
+   "key": "E",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "纤弱的/ 淤泥中妖冶, 颓废在/ 季夏第三月, 最幼嫩的新叶/ 连凋零都不屑, 何必/生/离/死别/, 圆润卵石间/ 缭绕/重生的火种,/ 光阴只方寸/ 延续了枯/荣/, 淋漓草檐下/ 谁撞/入窗前旧灯笼, 擦亮了/ 仓促的重///逢, 于青萍之末/ 风露更婆娑/, 还以为此刻/ 恰逢因/果, 是春秋开落/ 或夤夜闪烁, 哪个更值得/ 一错//再错, 错//啊！于盛恋//不舍。 ",
+    "蛰伏的/ 随断茎摇曳, 腾空在/ 一花一世界, 躯壳快要冷却/ 华筵还剩几夜, 思念/旦/暮/未歇/, 清浅池塘边/ 重生/破土的冲动,/ 天地正玲珑/ 殡葬了飞/虫/ 迢迢河汉间/ 有磷/火坠地如彗锋, 奢望着/ 能生死相///拥, 于盛夏之末/ 入夜仍灼热/, 又一场离合/ 开始凄/恻, 是扇底闪躲/ 或雨水摧折, 哪里都值得/ 恋恋//不舍。"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 3,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-14": {
+  "song": "song-14",
+  "source": "raw_jianpu/song-14/source.json",
+  "skipped": "has-play"
+ },
+ "song-15": {
+  "song": "song-15",
+  "source": "raw_jianpu/song-15/source.json",
+  "skipped": "has-play"
+ },
+ "九万字": {
+  "song": "九万字",
+  "source": "raw_jianpu/九万字/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:26",
+   "raw-dropped:':'"
+  ],
+  "header": {
+   "key": "G",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "飘泊的雪/摇曳回风 诗意灵魂 更叠情人 总惯用轻浮的/茂盛/掩抹深沉 有谁不是/少年热诚 孑然一身/爱一/个人 望尽了毕生温柔眼/神/ 写得出最刻薄的/字文 以讥诮这/庸尘 却不忍斥你毫/分/ 我也算万种风/情 实非良人/ 谁能有/幸 错付终身/ 最先动情的人 剥去利刃 沦为人臣 我爱你苍凉双/眼 明月星辰/ 不远万/里 叩入心门/ 一个孤僻的唇 摘获了你首/肯/献上一吻  呈  看那些 流离失/所的游魂/ 莫衷一/是层层围困/ 从来酿酒的人 分外清醒 独善其身 常言说命运半/点不由人/ 不信常言 偏信方寸 那些荒唐传闻 化名称为青/春/ 红尘滚滚",
+    "/////////////////////////// ////  有谁不是/死而寻生 险些终结/险些/长命 睡梦中无数次的自/刎/ 笔下有最淋漓的/爱恨 以剜挑这/浮生 只写你 衣不染/尘/ 我也算万种风/情实非良人/ 谁能有/幸错付终身/ 幻想岁月无声 百年之后 合于一坟 我爱你苍凉双/眼留有余温/ 荒芜的/心旷野徒奔/ 你会弹落烟尘 抹去指上灰/痕/ 各自纷"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-16": {
+  "song": "song-16",
+  "source": "raw_jianpu/song-16/source.json",
+  "skipped": "has-play"
+ },
+ "song-17": {
+  "song": "song-17",
+  "source": "raw_jianpu/song-17/source.json",
+  "skipped": "has-play"
+ },
+ "song-18": {
+  "song": "song-18",
+  "source": "raw_jianpu/song-18/source.json",
+  "skipped": "has-play"
+ },
+ "song-19": {
+  "song": "song-19",
+  "source": "raw_jianpu/song-19/source.json",
+  "skipped": "has-play"
+ },
+ "song-20": {
+  "song": "song-20",
+  "source": "raw_jianpu/song-20/source.json",
+  "skipped": "has-play"
+ },
+ "song-21": {
+  "song": "song-21",
+  "source": "raw_jianpu/song-21/source.json",
+  "skipped": "has-play"
+ },
+ "song-22": {
+  "song": "song-22",
+  "source": "raw_jianpu/song-22/source.json",
+  "skipped": "has-play"
+ },
+ "song-23": {
+  "song": "song-23",
+  "source": "raw_jianpu/song-23/source.json",
+  "skipped": "has-play"
+ },
+ "song-24": {
+  "song": "song-24",
+  "source": "raw_jianpu/song-24/source.json",
+  "skipped": "has-play"
+ },
+ "song-25": {
+  "song": "song-25",
+  "source": "raw_jianpu/song-25/source.json",
+  "skipped": "has-play"
+ },
+ "song-26": {
+  "song": "song-26",
+  "source": "raw_jianpu/song-26/source.json",
+  "skipped": "has-play"
+ },
+ "song-27": {
+  "song": "song-27",
+  "source": "raw_jianpu/song-27/source.json",
+  "skipped": "has-play"
+ },
+ "song-28": {
+  "song": "song-28",
+  "source": "raw_jianpu/song-28/source.json",
+  "skipped": "has-play"
+ },
+ "song-29": {
+  "song": "song-29",
+  "source": "raw_jianpu/song-29/source.json",
+  "skipped": "has-play"
+ },
+ "song-30": {
+  "song": "song-30",
+  "source": "raw_jianpu/song-30/source.json",
+  "skipped": "has-play"
+ },
+ "song-31": {
+  "song": "song-31",
+  "source": "raw_jianpu/song-31/source.json",
+  "skipped": "has-play"
+ },
+ "song-32": {
+  "song": "song-32",
+  "source": "raw_jianpu/song-32/source.json",
+  "skipped": "has-play"
+ },
+ "song-33": {
+  "song": "song-33",
+  "source": "raw_jianpu/song-33/source.json",
+  "skipped": "has-play"
+ },
+ "东风第一枝": {
+  "song": "东风第一枝",
+  "source": "raw_jianpu/东风第一枝/source.json",
+  "bpm_from_playback": 73,
+  "losses": [
+   "linebreaks-joined:34",
+   "lyric-group-to-brace:3",
+   "raw-dropped:'n'",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "raw-dropped:'%'",
+   "raw-dropped:'%'",
+   "raw-dropped:'n'",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "section-block-linearized",
+   "tag-dropped:lyric:'on'",
+   "section-block-linearized",
+   "key-b-tonic-octave-shift:+8"
+  ],
+  "header": {
+   "key": "bB",
+   "rhythm": "4/4",
+   "bpm": 73.0,
+   "verses": [
+    "摘不摘 眸中一星辰/任桃花 缀满了心门/等枝头 隔夜雪微沉/ 凉意添/几分/寻真{1.心} 显得多稚嫩/谁又敢 做我心上人/指间绳 系在老酒窖/ ////日复一日/酿存/所遇邀故人 归来已黄昏温半斤爱恨 听江湖传闻月影爬孤身 烟缓雨更吹 好梦无/人枕/情钟意浓 八荒心海成/空彼岸九重 独寻寒江雪/踪岁岁百花红 寥寥尘世中吻过鲜花唇色映/眉峰/踏访仙踪 彼时春色正/浓暗香浮动 花谢一越隆/冬恍恍睡魇中 声声入禅钟何苦强求那一抹/从容/ 无疾而终/ 载浮",
+    "////////////////////////////////////{2.沉} 谁共我一程/薄情者 借熟悉口吻/念平生 半言道天机/ {2.疏}花断//////客魂////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////从容/ 片语无穷 某日欢喜与/痛 以吻封缄 尝过白雪清/风一撇对惊鸿 云水叠千重打马呼啸前缘多/珍重/ 飞花解梦 掌间命格虚/空 灵犀入梦 脚下花开如/虹此意无人懂 此愿共千灯醉倒长街合衣寻/周公/ 不敢重逢/"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 2,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-34": {
+  "song": "song-34",
+  "source": "raw_jianpu/song-34/source.json",
+  "skipped": "has-play"
+ },
+ "song-35": {
+  "song": "song-35",
+  "source": "raw_jianpu/song-35/source.json",
+  "skipped": "has-play"
+ },
+ "虞兮叹": {
+  "song": "虞兮叹",
+  "source": "raw_jianpu/虞兮叹/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:14",
+   "tag-dropped:omit:'7m'",
+   "key-b-tonic-octave-shift:+8"
+  ],
+  "header": {
+   "key": "bB",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "楚河流/沙几聚散/  日月沧桑尽变换  乱世多少红/颜换一声/长叹//  谁曾巨鹿踏破了/秦关/  千里兵戈血染//  终究也不过/是风轻云淡/  长枪策马平天/下  此番诀别却为难  一声虞兮虞/兮泪眼已/潸然//  与君共饮这/杯中冷/暖  西风彻夜回忆吹不断  醉里挑灯看/剑 妾/舞阑珊  垓下一曲离乱 楚歌声四方  含悲 辞君 饮剑 血落凝寒霜  难舍一段过往 缘尽又何/妨  与你魂归之处便是苍茫  长枪  茫  汉兵刀剑纷乱 折断了月光  江畔 只身 孤舟 余生不思量//  难舍一段过往 缘尽又何/妨  与你来生共寄山高水长"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "云烟成雨": {
+  "song": "云烟成雨",
+  "source": "raw_jianpu/云烟成雨/source.json",
+  "bpm_from_playback": 76,
+  "losses": [
+   "linebreaks-joined:20",
+   "keynote-empty",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "key-missing-octave-shift:+8"
+  ],
+  "header": {
+   "key": null,
+   "rhythm": "4/4",
+   "bpm": 76.0,
+   "verses": [
+    "你的晚安，是下意识的恻{；}隐，我留至夜深，治疗失眠梦呓，{；}那封手写{；}信留在行李箱底，来不及{；}赋予{；}它旅途的意{；}义。若一{；}切都已云烟成{；}雨，我能否变成淤{；}泥{；}再一次沾染你，若生{；}命如过场电影，Oh让我再一次/甜/梦里惊/醒。/我多想再见你/哪怕匆匆一眼就别离，/路灯下昏黄的剪影,越走越漫长的林径，{；}我多想再见你，至少玩笑话还能说起，{；}街巷初次落{；}叶的秋分，渐行渐远去的我们。若一/渐远去/的我们。{；}站台汽笛响起，{；}想念是你的声{；}音，我们提着过去{；}走入人群，{；}寻找着一个位{；}置安放自{；}己。/ 我多想再见你/哪怕匆匆一眼就别离，/路灯下昏黄的剪影,越走越漫长的林径，{；}我多想再见你，至少玩笑话还能说起，{；}街巷初次落{；}叶的秋分，渐行渐远去的我们。 "
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 2,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "song-36": {
+  "song": "song-36",
+  "source": "raw_jianpu/song-36/source.json",
+  "skipped": "has-play"
+ },
+ "咏春": {
+  "song": "咏春",
+  "source": "raw_jianpu/咏春/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:14",
+   "bo-marker-dropped:4",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "section-block-linearized",
+   "raw-dropped:'['",
+   "raw-dropped:'e'",
+   "raw-dropped:':'",
+   "raw-dropped:'yc'",
+   "raw-dropped:'yc'"
+  ],
+  "header": {
+   "key": "F",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "红尘等相/遇，等来爱恨在对戏，谁在谁的回忆里。江湖迎风/雨，我朝恩怨走过去，你却不在结局里。/断壁残垣枯井，/咏春如影随行，/风声萧萧继续，/鱼雁往返消息。/你说让誓言纯/净如琉璃，为爱不染尘的勇气，将你写入这章/回小说里，永不老去的爱你。你。你说让誓言纯/净如琉璃，此生不该与缘分为敌，如你默许这短/暂的别离，只要最终是美丽。而我是他们口中的传奇，不败立于这天地。",
+    "初秋寻牧/笛，寻来愁绪添几笔，笛声轻落在梦里。明月映河/堤，粼粼波光几华里，你的叹息落哪里。/丝竹之音聆听，/远方谁在弹琴，/夜半几许孤寂，/只为等你一句。/"
+   ]
+  },
+  "repeat_forward": 0,
+  "repeat_backward": 1,
+  "ending_open": 1,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": true
+ },
+ "寄明月": {
+  "song": "寄明月",
+  "source": "raw_jianpu/寄明月/source.json",
+  "bpm_from_playback": 72,
+  "losses": [
+   "linebreaks-joined:49",
+   "pinyin-slot-dropped"
+  ],
+  "header": {
+   "key": "E",
+   "rhythm": "4/4",
+   "bpm": 72.0,
+   "verses": [
+    "/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////穿过了小巷后的/古/街  青墙旁你遥望夕阳斜 / 只因是不经意/的一/瞥扰乱我思绪不舍昼夜/  想化作庄周变/成蝴/蝶  驾青云穿过繁枝茂叶/纵然是群山层/层叠/叠  也无心在此流连停歇/将相思/寄明月/期盼你/能察觉 / 将你写/作诗阕/  送千里/无邪  你就是梦浸白了新/月才会有悲欢离合阴晴圆缺/  你就是风染红了枫/叶才会让我的思念漫山遍野 / 你就是泪浸白了初/雪才会如离人来去飘洒摇曳/  你就是你染红了岁/月改变我黑白而无言的世界/  ",
+    "/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////如溪水潺潺淌过/古/街带走了如梦般的时节 / 小桥上人潮络/绎不/绝  牵引我思绪层出不迭/若不识梁祝变/成蝴/蝶  驾紫烟穿过天上宫阙 / 绝不知人间多/愁离/别吹落叶散作秋风清切  /将相思/寄明月/  心缱绻/意难决/将此情/置长夜/  似繁星/明灭  你就是梦浸白了新/月才会有悲欢离合阴晴圆缺/  你就是风染红了枫/叶才会让我的思念漫山遍野/  你就是泪浸白了初/雪才会如离人来去飘洒摇曳/  你就是你染红了岁/月改变我黑白而无言的世界/  你就是梦浸白了新/月才会有悲欢离合阴晴圆缺/你就是风染红了枫/叶才会让我的思念漫山遍野/  你就是泪浸白了初/雪才会如离人来去飘洒摇曳  /你就是你染红了岁/月 改变我黑白而无言的世界/"
+   ]
+  },
+  "repeat_forward": 1,
+  "repeat_backward": 1,
+  "ending_open": 0,
+  "final_bar": 1,
+  "has_play": false,
+  "has_house": false
+ }
+}
